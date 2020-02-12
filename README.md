@@ -16,7 +16,7 @@
 - Sound: 
 - Recording: [Radium Zheng](https://github.com/ztl8702)
 
-## [福州語](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州語.csv)
+## [福州語](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州語.tsv)
 - Editor: 王建華, 林月仙, 林惠萍, 張秀玲, 陳秀玲, 陳蕙蓉, 劉玉金, 鄭秀芸, etc
 - Digitalization: [山月](https://github.com/Guanchishan)
 
