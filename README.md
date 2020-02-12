@@ -16,5 +16,9 @@
 ## 閩侯歌谣
 - Digitalization: [山月](https://github.com/Guanchishan)
 
+## 福州語
+- Editor: 王建華, 林月仙, 林惠萍, 張秀玲, 陳秀玲, 陳蕙蓉, 劉玉金, 鄭秀芸, etc
+- Digitalization: [山月](https://github.com/Guanchishan)
+
 ## Other idioms
 See individual details behind the idioms.
