@@ -27,5 +27,5 @@
 ## [闽侯歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/闽侯歌谣.csv)
 - Digitalization: [山月](https://github.com/Guanchishan)
 
-## [Other idioms](https://github.com/MindongLab/foochow-idioms-data/blob/master/other%20idioms.csv)
+## [Other idioms](https://github.com/MindongLab/foochow-idioms-data/blob/master/other%20idioms.tsv)
 See individual details behind the idioms.
