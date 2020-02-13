@@ -23,14 +23,14 @@
 ## [連江縣志·文化志](https://github.com/MindongLab/foochow-idioms-data/blob/master/連江縣志·文化志.tsv)
 ### 第四篇. 第三章 傳統藝術. 第三節 歌謠
 - [Original URL](http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14)
-- Archive URL: [archive.org](https://web.archive.org/web/20200213114651/http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14) [archive.is](http://archive.ph/wip/VrikW)
+- Archive URL: [archive.org](https://web.archive.org/web/20200213114651/http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14), [archive.is](http://archive.ph/wip/VrikW)
 - Digitalization: 山月
 
 ## [莒光鄉誌](https://github.com/MindongLab/foochow-idioms-data/blob/master/莒光鄉誌.tsv)
 - Publisher: 莒光鄉公所
 ### 第四節 民間歌謠
 - [Original URL](http://board.matsu.idv.tw/board_view.php?board=50&pid=23668&link=23668&start=154)
-- Archive URL: [archive.org](https://web.archive.org/web/20200213115451/http://board.matsu.idv.tw/board_view.php?board=50&pid=23668&link=23668&start=154) [archive.is](http://archive.ph/wip/qRCtn)
+- Archive URL: [archive.org](https://web.archive.org/web/20200213115451/http://board.matsu.idv.tw/board_view.php?board=50&pid=23668&link=23668&start=154), [archive.is](http://archive.ph/wip/qRCtn)
 - Digitalization: 山月
 
 ## [闽侯歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/闽侯歌谣.csv)
