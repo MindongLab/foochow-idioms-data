@@ -1,6 +1,6 @@
 # foochow-idioms-data
 
-## [中国谚语集成福建卷・福州市鼓楼区分卷](https://github.com/MindongLab/foochow-idioms-data/blob/master/中国谚语集成福建卷・福州市鼓楼区分卷.csv)
+## [中国谚语集成福建卷・福州市鼓楼区分卷](https://github.com/MindongLab/foochow-idioms-data/blob/master/中国谚语集成福建卷・福州市鼓楼区分卷/中国谚语集成福建卷・福州市鼓楼区分卷.csv)
 - Publisher: 福州鼓楼区民间文学三集成编委会
 - Editor-in-chief: 邱顺生
 - Sub-editor: 郑郁
@@ -20,8 +20,8 @@
 - Editor: 王建華, 林月仙, 林惠萍, 張秀玲, 陳秀玲, 陳蕙蓉, 劉玉金, 鄭秀芸, etc
 - Digitalization: 山月
 
-## [連江縣志·文化志](https://github.com/MindongLab/foochow-idioms-data/blob/master/連江縣志·文化志.tsv)
-### 第四篇. 第三章 傳統藝術. 第三節 歌謠
+## 連江縣志·文化志
+### [第四篇. 第三章 傳統藝術. 第三節 歌謠](https://github.com/MindongLab/foochow-idioms-data/blob/master/連江縣志·文化志/第四篇.%20第三章%20傳統藝術.%20第三節%20歌謠.tsv)
 - [Original URL](http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14)
 - Archive URL: [archive.org](https://web.archive.org/web/20200213114651/http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14), [archive.is](http://archive.ph/wip/VrikW)
 - Digitalization: 山月
