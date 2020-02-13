@@ -14,18 +14,27 @@
 ## [福州方言熟语歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州方言熟语歌谣.csv)
 - Digitalization: [Radium Zheng](https://github.com/ztl8702)
 - Sound: 
-- Recording: [Radium Zheng](https://github.com/ztl8702)
+- Recording: Radium Zheng
 
 ## [福州語](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州語.tsv)
 - Editor: 王建華, 林月仙, 林惠萍, 張秀玲, 陳秀玲, 陳蕙蓉, 劉玉金, 鄭秀芸, etc
-- Digitalization: [山月](https://github.com/Guanchishan)
+- Digitalization: 山月
 
-## [連江縣志·文化志](https://github.com/MindongLab/foochow-idioms-data/blob/master/連江縣志·文化志.csv)
+## [連江縣志·文化志](https://github.com/MindongLab/foochow-idioms-data/blob/master/連江縣志·文化志.tsv)
+### 第四篇. 第三章 傳統藝術. 第三節 歌謠
+- [Original URL](http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14)
+- Archive URL: [archive.org](https://web.archive.org/web/20200213114651/http://board.matsu.idv.tw/board_view.php?board=141&pid=69806&link=69806&start=14) [archive.is](http://archive.ph/wip/VrikW)
+- Digitalization: 山月
 
-## [莒光鄉誌](https://github.com/MindongLab/foochow-idioms-data/blob/master/莒光鄉誌.csv)
+## [莒光鄉誌](https://github.com/MindongLab/foochow-idioms-data/blob/master/莒光鄉誌.tsv)
+- Publisher: 莒光鄉公所
+### 第四節 民間歌謠
+- [Original URL](http://board.matsu.idv.tw/board_view.php?board=50&pid=23668&link=23668&start=154)
+- Archive URL: [archive.org](https://web.archive.org/web/20200213115451/http://board.matsu.idv.tw/board_view.php?board=50&pid=23668&link=23668&start=154) [archive.is](http://archive.ph/wip/qRCtn)
+- Digitalization: 山月
 
 ## [闽侯歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/闽侯歌谣.csv)
-- Digitalization: [山月](https://github.com/Guanchishan)
+- Digitalization: 山月
 
 ## [Other idioms](https://github.com/MindongLab/foochow-idioms-data/blob/master/other%20idioms.tsv)
 See individual details behind the idioms.
