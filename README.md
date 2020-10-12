@@ -36,5 +36,12 @@
 ## [闽侯歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/闽侯歌谣.csv)
 - Digitalization: 山月
 
+## 宝禅百首福州民谣
+- Editor: 邵明
+- Publisher: 中国博学出版社
+- Date: 2018-09
+- ISBN: 9789888563739
+- Digitalization: 山月
+
 ## [Other idioms](https://github.com/MindongLab/foochow-idioms-data/blob/master/other%20idioms.tsv)
 See individual details behind the idioms.
