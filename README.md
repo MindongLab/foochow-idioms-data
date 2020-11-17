@@ -33,7 +33,7 @@
 - Archive URL: [archive.org](https://web.archive.org/web/20200213115451/http://board.matsu.idv.tw/board_view.php?board=50&pid=23668&link=23668&start=154), [archive.is](http://archive.ph/wip/qRCtn)
 - Digitalization: 山月
 
-## [闽侯歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/闽侯歌谣.csv)
+## [闽侯歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/闽侯歌谣)
 - Digitalization: 山月
 
 ## 宝禅百首福州民谣
