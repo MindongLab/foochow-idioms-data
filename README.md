@@ -17,7 +17,7 @@
 - Date: 1989-09
 - Publish No.: 〔87〕闽出管准印证第130131号
 - Printing: 福州印刷纸品厂
-- Digitalization: [木菜](https://github.com/clzls), 关彳山
+- Digitalization: [木菜](https://github.com/clzls), [北海虽赊](https://github.com/insualk), 关彳山
 
 ## [福州方言词典](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州方言词典.%201994.tsv)
 - Editor: 李如龙, 梁玉璋, 邹光椿, 陈泽平, etc
