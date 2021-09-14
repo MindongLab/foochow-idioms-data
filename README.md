@@ -19,6 +19,9 @@
 - Printing: 福州印刷纸品厂
 - Digitalization: [木菜](https://github.com/clzls), [北海虽赊](https://github.com/insualk), 关彳山
 
+## [福州方言词典](https://github.com/ztl8702/zingzeu-data/blob/master/li.txt)
+- Editor: 李如龙, 梁玉璋, 邹光椿, 陈泽平, etc
+
 ## [福州方言熟语歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州方言熟语歌谣.csv)
 - Digitalization: [Radium Zheng](https://github.com/ztl8702)
 - Sound: 
@@ -27,6 +30,9 @@
 ## [福州語](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州語.tsv)
 - Editor: 王建華, 林月仙, 林惠萍, 張秀玲, 陳秀玲, 陳蕙蓉, 劉玉金, 鄭秀芸, etc
 - Digitalization: 山月
+
+## [中国谚语集成福建卷・连江县分卷](https://github.com/siuze/sy_ngy__LJ/blob/main/ngieng_ngy_zik_sing/ngieng_ngy.txt) and its revision
+- Author: 连江县民间文学集成编委会
 
 ## 連江縣志·文化志
 ### [第四篇. 第三章 傳統藝術. 第三節 歌謠](https://github.com/MindongLab/foochow-idioms-data/blob/master/連江縣志·文化志/第四篇.%20第三章%20傳統藝術.%20第三節%20歌謠.tsv)
