@@ -26,6 +26,23 @@ See individual details behind the idioms.
 - ISBN: 9789888563739
 - Digitalization: 山月
 
+### 趣读福州方言童谣
+- Ediotr: 郑丽, 唐若石
+- Series: 福州社科普及读本
+- Publisher: 海峡文艺出版社
+- Date: 2020-09
+- Edition: 1st
+- ISBN: 9787555023531
+- Pages: 111
+
+
+### 福州民间童谣的分类与赏析
+- Author:陈芳
+- Journal: 长春教育学院学报
+- Date: 2014
+- Issue: 23
+- Pages: 32-34
+
 ## 福州市区
 
 ### [中国谚语集成福建卷・福州市鼓楼区分卷](https://github.com/MindongLab/foochow-idioms-data/blob/master/中国谚语集成福建卷・福州市鼓楼区分卷/content.csv)
