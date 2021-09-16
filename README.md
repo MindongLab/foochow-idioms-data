@@ -17,14 +17,12 @@ See individual details behind the idioms.
 
 ### [福州語](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州語.tsv)
 - Editor: 王建華, 林月仙, 林惠萍, 張秀玲, 陳秀玲, 陳蕙蓉, 劉玉金, 鄭秀芸, etc
-- Digitalization: 山月
 
 ### 宝禅百首福州民谣
 - Editor: 邵明
 - Publisher: 中国博学出版社
 - Date: 2018-09
 - ISBN: 9789888563739
-- Digitalization: 山月
 
 ### 趣读福州方言童谣
 - Ediotr: 郑丽, 唐若石
@@ -37,7 +35,7 @@ See individual details behind the idioms.
 
 
 ### 福州民间童谣的分类与赏析
-- Author:陈芳
+- Author: 陈芳
 - Journal: 长春教育学院学报
 - Date: 2014
 - Issue: 23
