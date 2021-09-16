@@ -41,7 +41,7 @@ See individual details behind the idioms.
 - Issue: 23
 - Pages: 32-34
 
-## 福州市区
+## 鼓楼
 
 ### [中国谚语集成福建卷・福州市鼓楼区分卷](https://github.com/MindongLab/foochow-idioms-data/blob/master/中国谚语集成福建卷・福州市鼓楼区分卷/content.csv)
 - Publisher: 福州鼓楼区民间文学三集成编委会
