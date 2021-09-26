@@ -1,0 +1,19 @@
+id: 177
+legacyId: 56a456b3ef3c8213c800caad
+text: 丈侬攀讲馆，丈奶点心店。
+annotations:
+- explanation: 岳父。
+  indices: [0, 1]
+  text: 丈侬
+- explanation: 即茶馆。
+  indices: [2, 3, 4]
+  text: 攀讲馆
+- explanation: 聊天。
+  indices: [2, 3]
+  text: 攀讲
+- explanation: 岳母。
+  indices: [6, 7]
+  text: 丈奶
+audioIds: [aff180d7-51a5-4502-899d-c44f17ceaafc]
+tags: [亲戚关系, 谚语]
+sourceId: 1

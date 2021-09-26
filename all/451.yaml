@@ -1,0 +1,16 @@
+id: 451
+legacyId: 56a456b5ef3c8213c800ccd8
+text: 卜食鱼汤七十二。
+annotations:
+- explanation: 要吃。
+  indices: [0, 1]
+  text: 卜食
+- explanation: 助动词；要，想要。
+  indices: [0]
+  text: 卜
+- explanation: （必须付）七十二枚铜钱。
+  indices: [4, 5, 6]
+  text: 七十二
+audioIds: [1c23cfea-be50-4637-9af4-10163ece1433]
+tags: [惯用语]
+sourceId: 1

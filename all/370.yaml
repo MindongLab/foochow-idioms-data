@@ -1,0 +1,13 @@
+id: 370
+legacyId: 56a456b5ef3c8213c800cc36
+text: 复浅复拍泎。
+annotations:
+- explanation: 又……又……。
+  indices: [0, 2]
+  text: 复……复……
+- explanation: 洒泼。
+  indices: [3, 4]
+  text: 拍泎
+audioIds: [389ca6b9-795b-48fa-9899-36d8766d1565]
+tags: [惯用语]
+sourceId: 1

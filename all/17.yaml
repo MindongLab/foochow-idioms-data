@@ -1,0 +1,20 @@
+id: 17
+legacyId: 56a456b3ef3c8213c800c965
+text: 月光照滥地，罔逿罔有味。
+annotations:
+- explanation: 湿。
+  indices: [3]
+  text: 滥
+- explanation: 越·····越·····。
+  indices: [6, 8]
+  text: 罔……罔……
+- explanation: 下（雨）。
+  indices: [7]
+  text: 逿
+- explanation: 有趣的意思。
+  indices: [9, 10]
+  text: 有味
+audioIds: [db54939c-7288-4b61-98ec-7d6e347aef5b]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 17

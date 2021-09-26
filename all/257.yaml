@@ -1,0 +1,16 @@
+id: 257
+legacyId: 56a456b4ef3c8213c800cb51
+text: "下界爷爬\U00023350上横头桌。"
+annotations:
+- explanation: 指孤魂野鬼，在冥界中地位最低。注意“下界”二字合音。
+  indices: [0, 1, 2]
+  text: 下界爷
+- explanation: 登不上。
+  indices: [3, 4, 5]
+  text: "爬\U00023350上"
+- explanation: 横置厅上的香案，约两米长、半米宽、齐胸高，用以放置神像、佛龛等。
+  indices: [6, 7, 8]
+  text: 横头桌
+audioIds: [b5677c88-2dd3-40fa-98e0-3c68e76c65b8]
+tags: [世道清浊, 谚语]
+sourceId: 1

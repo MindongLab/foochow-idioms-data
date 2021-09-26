@@ -1,0 +1,13 @@
+id: 456
+legacyId: 56a456b5ef3c8213c800cce2
+text: "大目\U00023350看见灶。"
+annotations:
+- explanation: 睁大眼睛。
+  indices: [0, 1]
+  text: 大目
+- explanation: 看不见。
+  indices: [2, 3, 4]
+  text: "\U00023350看见"
+audioIds: [4fdb4040-7830-4eaf-af85-35d5818baacc]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,23 @@
+id: 505
+legacyId: 56a456b5ef3c8213c800cd46
+text: 眚盲讨姆——俪八大。
+annotations:
+- explanation: 瞎子。
+  indices: [0, 1]
+  text: 眚盲
+- explanation: 娶妻，此处指择偶。
+  indices: [2, 3]
+  text: 讨姆
+- explanation: 只晓得，只要。
+  indices: [6, 7]
+  text: 俪八
+- explanation: 〈借用字〉只，仅。
+  indices: [6]
+  text: 俪
+- explanation: 晓得，知道。
+  indices: [7]
+  text: 八
+audioIds: [bfa8db2a-450f-45ad-9e2e-c2f0dc728c98]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 142

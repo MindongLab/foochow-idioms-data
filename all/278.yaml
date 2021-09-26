@@ -1,0 +1,19 @@
+id: 278
+legacyId: 56a456b4ef3c8213c800cb7c
+text: 老罔老，会{⿰扌马}蜀把豆。
+annotations:
+- explanation: 尽管。
+  indices: [1]
+  text: 罔
+- explanation: 能够。
+  indices: [4]
+  text: 会
+- explanation: 抓取。
+  indices: [5]
+  text: '{⿰扌马}'
+- explanation: 一把。
+  indices: [6, 7]
+  text: 蜀把
+audioIds: [af3972af-da82-473d-8ea6-2b0c6e510914]
+tags: [众生百相, 谚语]
+sourceId: 1

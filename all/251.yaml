@@ -1,0 +1,22 @@
+id: 251
+legacyId: 56a456b4ef3c8213c800cb45
+text: "横心横肠，饭炊蜀甑；良心天理，鼎\U00020CA5无米。"
+annotations:
+- explanation: 狠心。
+  indices: [0, 1, 2, 3]
+  text: 横心横肠
+- explanation: 蒸一锅饭，形容富裕。
+  indices: [5, 6, 7, 8]
+  text: 饭炊蜀甑
+- explanation: 蒸笼，本字“床”。
+  indices: [8]
+  text: 甑
+- explanation: 铁锅。
+  indices: [15]
+  text: 鼎
+- explanation: 处所助词，本字“里”。
+  indices: [16]
+  text: "\U00020CA5"
+audioIds: [2f550f10-b89a-4a2b-a500-0ac46e802485]
+tags: [世道清浊, 谚语]
+sourceId: 1

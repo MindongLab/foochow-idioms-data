@@ -1,0 +1,16 @@
+id: 386
+legacyId: 56a456b5ef3c8213c800cc56
+text: 七哥共八哥，两奇差不多。
+annotations:
+- explanation: 俗称白无常鬼、黑无常鬼，也称“七爷、 八爷”。
+  indices: [0, 1, 3, 4]
+  text: 七哥……八哥……
+- explanation: 连词；和。
+  indices: [2]
+  text: 共
+- explanation: 量词；个。
+  indices: [7]
+  text: 奇
+audioIds: [97b054e7-a7e0-41ed-bddd-18a7b655cf10]
+tags: [惯用语]
+sourceId: 1

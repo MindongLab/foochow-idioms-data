@@ -1,0 +1,13 @@
+id: 259
+legacyId: 56a456b4ef3c8213c800cb55
+text: 火㖹暗，都是贼。
+annotations:
+- explanation: 吹熄灯火。
+  indices: [0, 1, 2]
+  text: 火㖹暗
+- explanation: 〈方言俗字〉吹。
+  indices: [1]
+  text: 㖹
+audioIds: [37637240-0e39-4009-bb82-1d1e5272f8c4]
+tags: [世道清浊, 谚语]
+sourceId: 1

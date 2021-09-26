@@ -1,0 +1,17 @@
+id: 104
+legacyId: 56a456b3ef3c8213c800ca17
+text: 嘴无收，股川飚。
+annotations:
+- explanation: 收敛，指忌口禁食。
+  indices: [2]
+  text: 收
+- explanation: 福州话“屁股”的意思。
+  indices: [4, 5]
+  text: 股川
+- explanation: 迸发。
+  indices: [6]
+  text: 飚
+audioIds: [6e14700b-fc2f-492e-b944-6ab1b2b9f6b5]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 41

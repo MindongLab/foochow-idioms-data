@@ -1,0 +1,13 @@
+id: 432
+legacyId: 56a456b5ef3c8213c800ccb2
+text: 未学行，先学肺。
+annotations:
+- explanation: 走。
+  indices: [2]
+  text: 行
+- explanation: 跑。
+  indices: [6]
+  text: 肺
+audioIds: [1c0b58f5-209c-4eae-913f-e1329ebe74b9]
+tags: [惯用语]
+sourceId: 1

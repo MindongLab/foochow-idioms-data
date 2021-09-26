@@ -1,0 +1,14 @@
+id: 56
+legacyId: 56a456b3ef3c8213c800c9b4
+text: 延平水，鼓山平。
+annotations:
+- explanation: 指的是旧延平府，今天的南平市延平区，在福州北面，闽江上游。
+  indices: [0, 1]
+  text: 延平
+- explanation: 与鼓山一样高。
+  indices: [4, 5, 6]
+  text: 鼓山平
+audioIds: [c5ebd818-2363-4724-ac66-93137f2719e8]
+tags: [日月山川, 谚语]
+sourceId: 1
+sourcePageNumber: 29

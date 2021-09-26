@@ -1,0 +1,13 @@
+id: 304
+legacyId: 56a456b4ef3c8213c800cbb0
+text: 面髀无肉，不可相熟。
+annotations:
+- explanation: 脸颊。
+  indices: [0, 1]
+  text: 面髀
+- explanation: 相交往。
+  indices: [7, 8]
+  text: 相熟
+audioIds: [9b50b3ef-6758-466e-ac92-f38058c5bbaf]
+tags: [众生百相, 谚语]
+sourceId: 1

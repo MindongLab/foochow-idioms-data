@@ -1,0 +1,13 @@
+id: 187
+legacyId: 56a456b4ef3c8213c800cac1
+text: 乌头叔，白头孙。
+annotations:
+- explanation: 黑头发，指年轻的。
+  indices: [0, 1]
+  text: 乌头
+- explanation: 侄儿。
+  indices: [6]
+  text: 孙
+audioIds: [50739541-2eb3-4284-9296-e8c80580947f]
+tags: [亲戚关系, 谚语]
+sourceId: 1

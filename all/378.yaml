@@ -1,0 +1,13 @@
+id: 378
+legacyId: 56a456b5ef3c8213c800cc46
+text: 细姨过厝。
+annotations:
+- explanation: 小姨子，妻妹。
+  indices: [0, 1]
+  text: 细姨
+- explanation: （花轿抬）过门。
+  indices: [2, 3]
+  text: 过厝
+audioIds: [be7409ab-4552-4f0b-8102-d89dff957678]
+tags: [惯用语]
+sourceId: 1

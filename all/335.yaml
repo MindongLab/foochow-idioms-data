@@ -1,0 +1,16 @@
+id: 335
+legacyId: 56a456b4ef3c8213c800cbf0
+text: 红蚁扛蒲蝇。
+annotations:
+- explanation: 蚂蚁。“红”是借用字，声调不合。
+  indices: [0, 1]
+  text: 红蚁
+- explanation: 合力抬。
+  indices: [2]
+  text: 扛
+- explanation: 苍蝇。
+  indices: [3, 4]
+  text: 蒲蝇
+audioIds: [0c5c8931-e317-4942-9129-e7ae9b78f256]
+tags: [惯用语]
+sourceId: 1

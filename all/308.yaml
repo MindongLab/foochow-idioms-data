@@ -1,0 +1,13 @@
+id: 308
+legacyId: 56a456b4ef3c8213c800cbb9
+text: 破钵逗汝玻璃缸。
+annotations:
+- explanation: 向“…”挑衅。
+  indices: [2]
+  text: 逗
+- explanation: 你。
+  indices: [3]
+  text: 汝
+audioIds: [222dd335-f4a5-4e94-a63a-6fe80e894c27]
+tags: [谐喻事理, 谚语]
+sourceId: 1

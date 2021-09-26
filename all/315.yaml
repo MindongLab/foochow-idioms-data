@@ -1,0 +1,16 @@
+id: 315
+legacyId: 56a456b4ef3c8213c800cbc7
+text: 三年食长斋，蜀条虾米须开荤。
+annotations:
+- explanation: 长年奉佛吃素。
+  indices: [2, 3, 4]
+  text: 食长斋
+- explanation: 一根。
+  indices: [6, 7]
+  text: 蜀条
+- explanation: 触须; 俗写同音字“秋”。
+  indices: [10]
+  text: 须
+audioIds: [1bef9f0b-e3f3-4490-bb6d-4400544d1f43]
+tags: [谐喻事理, 谚语]
+sourceId: 1

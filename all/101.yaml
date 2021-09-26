@@ -1,0 +1,11 @@
+id: 101
+legacyId: 56a456b3ef3c8213c800ca11
+text: 医生无看嗽，看嗽名声臭。
+annotations:
+- explanation: 不收治咳嗽病人。
+  indices: [2, 3, 4]
+  text: 无看嗽
+audioIds: [21aa0a63-2d0c-450e-8cd3-5e35063e5253]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 40

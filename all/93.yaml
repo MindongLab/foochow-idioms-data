@@ -1,0 +1,20 @@
+id: 93
+legacyId: 56a456b3ef3c8213c800ca01
+text: 凉九熻三。
+annotations:
+- explanation: 晾，此处指有意少穿衣，锻炼御寒能力。
+  indices: [0]
+  text: 凉
+- explanation: 农历九月，指秋季。
+  indices: [1]
+  text: 九
+- explanation: 焖煮，此处指有意多加衣服，穿得暖和些。
+  indices: [2]
+  text: 熻
+- explanation: 农历三月，指春季。
+  indices: [3]
+  text: 三
+audioIds: [54bbc622-284b-4580-913b-3cbf5e783311]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 38

@@ -1,0 +1,16 @@
+id: 415
+legacyId: 56a456b5ef3c8213c800cc90
+text: "担粪\U00023350等桶漏。"
+annotations:
+- explanation: 挑粪。
+  indices: [1]
+  text: 粪
+- explanation: 等不及，期盼。
+  indices: [2, 3]
+  text: "\U00023350等"
+- explanation: 指粪桶。
+  indices: [4]
+  text: 桶
+audioIds: [242e69e2-5c9b-43ff-a9be-90fd99038a25]
+tags: [惯用语]
+sourceId: 1

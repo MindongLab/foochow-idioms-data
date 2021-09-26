@@ -1,0 +1,14 @@
+id: 88
+legacyId: 56a456b3ef3c8213c800c9f7
+text: 咸盐若无虫，世间也无侬。
+annotations:
+- explanation: 泛指用盐腌制的食品、调味品。盐：动词，指以盐腌渍。
+  indices: [0, 1]
+  text: 咸盐
+- explanation: 人。
+  indices: [10]
+  text: 侬
+audioIds: [440b73d0-e5ef-43bc-99d3-fb36e6d0c8a4]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 37

@@ -1,0 +1,16 @@
+id: 437
+legacyId: 56a456b5ef3c8213c800ccbc
+text: 门垫复悬犬复大。
+annotations:
+- explanation: 门植。
+  indices: [0, 1]
+  text: 门垫
+- explanation: 又；俗写“仅”字。
+  indices: [2]
+  text: 复
+- explanation: 〈白读音〉高，俗写同音字“咸”。
+  indices: [3]
+  text: 悬
+audioIds: [65e04c74-0bc1-4840-bca9-a3afa0dc0833]
+tags: [惯用语]
+sourceId: 1

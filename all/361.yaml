@@ -1,0 +1,13 @@
+id: 361
+legacyId: 56a456b5ef3c8213c800cc24
+text: 老鸦叫，别侬死。
+annotations:
+- explanation: 乌鸦。
+  indices: [0, 1]
+  text: 老鸦
+- explanation: 别人。
+  indices: [4, 5]
+  text: 别侬
+audioIds: [bea3160d-37cb-4878-9388-3e62bb6354d5]
+tags: [惯用语]
+sourceId: 1

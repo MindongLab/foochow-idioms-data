@@ -1,0 +1,14 @@
+id: 28
+legacyId: 56a456b3ef3c8213c800c97b
+text: "六月雨，\U00023350过墿。"
+annotations:
+- explanation: 指农历六月的热雷雨，“雨”读特殊的口语音，俗写同音的“祸”字。
+  indices: [0, 1, 2]
+  text: 六月雨
+- explanation: 路。
+  indices: [6]
+  text: 墿
+audioIds: [2d34de95-915e-457a-aad4-c122d56c2a83]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 21

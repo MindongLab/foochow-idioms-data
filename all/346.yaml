@@ -1,0 +1,13 @@
+id: 346
+legacyId: 56a456b4ef3c8213c800cc06
+text: 金蒲蝇屎腹。
+annotations:
+- explanation: 红头大苍蝇。
+  indices: [0, 1, 2]
+  text: 金蒲蝇
+- explanation: 肚子里尽是屎。
+  indices: [3, 4]
+  text: 屎腹
+audioIds: [40d29d08-6e10-41e1-85e3-3094310ed66b]
+tags: [惯用语]
+sourceId: 1

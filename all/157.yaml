@@ -1,0 +1,20 @@
+id: 157
+legacyId: 56a456b3ef3c8213c800ca84
+text: 等汤噢滚，等囝噢大。
+annotations:
+- explanation: 开水。
+  indices: [1]
+  text: 汤
+- explanation: （水烧）开。
+  indices: [3]
+  text: 滚
+- explanation: 等着孩子（长大成人）
+  indices: [5, 6]
+  text: 等囝
+- explanation: 〈音〉不易。
+  indices: [2]
+  text: 噢
+audioIds: [2f5569a2-c31f-41f3-909f-6bf239e4e9ae]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 55

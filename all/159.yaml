@@ -1,0 +1,17 @@
+id: 159
+legacyId: 56a456b3ef3c8213c800ca88
+text: 载扛三斗米，伓抱伲囝疕。
+annotations:
+- explanation: 宁可。
+  indices: [0]
+  text: 载
+- explanation: 不愿。
+  indices: [6]
+  text: 伓
+- explanation: 小孩儿。
+  indices: [8, 9, 10]
+  text: 伲囝疕
+audioIds: [194df5f2-e1d0-401b-b091-749bdbb1a588]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 56

@@ -1,0 +1,13 @@
+id: 359
+legacyId: 56a456b5ef3c8213c800cc20
+text: 老虎复来，鞋带复断。
+annotations:
+- explanation: 又……又……
+  indices: [2, 7]
+  text: 复……复……
+- explanation: 又，俗写“仅”。
+  indices: [2]
+  text: 复
+audioIds: [47a3fb67-9523-4a16-a75f-acb863180179]
+tags: [惯用语]
+sourceId: 1

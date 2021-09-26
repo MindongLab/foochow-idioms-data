@@ -1,0 +1,14 @@
+id: 124
+legacyId: 56a456b3ef3c8213c800ca40
+text: 和尚侬做其。
+annotations:
+- explanation: 人。此处指常人。
+  indices: [2]
+  text: 侬
+- explanation: 结构助词。“的”的意思。
+  indices: [4]
+  text: 其
+audioIds: [8ea5e77b-05c7-401b-ab2d-bd98ec59be92]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 46

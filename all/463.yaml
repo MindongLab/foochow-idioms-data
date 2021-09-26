@@ -1,0 +1,19 @@
+id: 463
+legacyId: 56a456b5ef3c8213c800ccf0
+text: 连江鸡筑胲。
+annotations:
+- explanation: 连江县，福州的东北方向。
+  indices: [0, 1]
+  text: 连江
+- explanation: 往待售活鸡的嗉囊里填塞异物，这是鸡贩子的惯用欺诈手法。
+  indices: [3, 4]
+  text: 筑胲
+- explanation: 添塞。
+  indices: [3]
+  text: 筑
+- explanation: 〈方言俗字〉禽类的嗉囊。
+  indices: [4]
+  text: 胲
+audioIds: [9647b392-27bf-4281-b1b4-71ec04c2d59b]
+tags: [惯用语]
+sourceId: 1

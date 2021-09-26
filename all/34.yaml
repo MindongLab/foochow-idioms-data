@@ -1,0 +1,11 @@
+id: 34
+legacyId: 56a456b3ef3c8213c800c987
+text: 六月颱，无米筛。
+annotations:
+- explanation: 指“风颱”，即台风。
+  indices: [2]
+  text: 颱
+audioIds: [010b6867-513f-4f18-84cb-d9f3b2b96982]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 23

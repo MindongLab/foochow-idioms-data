@@ -1,0 +1,14 @@
+id: 122
+legacyId: 56a456b3ef3c8213c800ca3c
+text: 皇帝诸侬骂，乞食骂诸侬。
+annotations:
+- explanation: 每个人。
+  indices: [2, 3]
+  text: 诸侬
+- explanation: 乞丐。
+  indices: [6, 7]
+  text: 乞食
+audioIds: [85dd82c6-13bf-4cc7-b7e2-0438c54548b4]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 46

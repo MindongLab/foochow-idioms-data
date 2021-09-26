@@ -1,0 +1,17 @@
+id: 248
+legacyId: 56a456b4ef3c8213c800cb3f
+text: 有势使势，无势讨势。
+annotations:
+- explanation: 权势。
+  indices: [1]
+  text: 势
+- explanation: 利用权势。
+  indices: [2, 3]
+  text: 使势
+- explanation: 听话，顺从。
+  indices: [7, 8]
+  text: 讨势
+audioIds: [08c2ea5f-6a78-4ae8-af8d-9001e5662720]
+tags: [世道清浊, 谚语]
+sourceId: 1
+sourcePageNumber: 78

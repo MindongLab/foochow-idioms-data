@@ -1,0 +1,11 @@
+id: 33
+legacyId: 56a456b3ef3c8213c800c985
+text: 有雨天边光，无雨头顶光。
+annotations:
+- explanation: 亮的意思。
+  indices: [4]
+  text: 光
+audioIds: [46e0ea16-d3dc-4211-ade1-5221a29f2e8d]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 22

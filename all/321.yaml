@@ -1,0 +1,13 @@
+id: 321
+legacyId: 56a456b4ef3c8213c800cbd3
+text: 鬼囝无见过大猪头。
+annotations:
+- explanation: 小鬼。
+  indices: [0, 1]
+  text: 鬼囝
+- explanation: 猪头是庙里敬神的供品，小鬼不配享用。
+  indices: [5, 6, 7]
+  text: 大猪头
+audioIds: [16acee38-6c69-4680-bba3-844b54ba0eff]
+tags: [谐喻事理, 谚语]
+sourceId: 1

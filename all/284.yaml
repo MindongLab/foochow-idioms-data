@@ -1,0 +1,13 @@
+id: 284
+legacyId: 56a456b4ef3c8213c800cb88
+text: 神仙难趁兴化钱。
+annotations:
+- explanation: 赚。
+  indices: [3]
+  text: 趁
+- explanation: 兴化人的钱。
+  indices: [4, 5, 6]
+  text: 兴化钱
+audioIds: [8f40753a-ae7f-4f51-a058-2bef99cf9065]
+tags: [众生百相, 谚语]
+sourceId: 1

@@ -1,0 +1,16 @@
+id: 268
+legacyId: 56a456b4ef3c8213c800cb67
+text: 臭头鸡囝众侬刨。
+annotations:
+- explanation: 小鸡。
+  indices: [2, 3]
+  text: 鸡囝
+- explanation: 人，此处指鸡。
+  indices: [5]
+  text: 侬
+- explanation: 啄。
+  indices: [6]
+  text: 刨
+audioIds: [31942510-d48f-4bf2-a042-94a332cba974]
+tags: [世道清浊, 谚语]
+sourceId: 1

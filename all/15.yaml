@@ -1,0 +1,11 @@
+id: 15
+legacyId: 56a456b3ef3c8213c800c961
+text: 春霞无出三日雨。
+annotations:
+- explanation: 不出。
+  indices: [2, 3]
+  text: 无出
+audioIds: [9fb8b328-be9a-4a59-a6ed-6a12e19232d2]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 17

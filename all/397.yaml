@@ -1,0 +1,16 @@
+id: 397
+legacyId: 56a456b5ef3c8213c800cc6c
+text: 看侬排碗菜。
+annotations:
+- explanation: 人。
+  indices: [1]
+  text: 侬
+- explanation: 摆放。
+  indices: [2]
+  text: 排
+- explanation: 菜肴。
+  indices: [3, 4]
+  text: 碗菜
+audioIds: [b08cd440-f14e-46f9-be4b-704ac1b4a91f]
+tags: [惯用语]
+sourceId: 1

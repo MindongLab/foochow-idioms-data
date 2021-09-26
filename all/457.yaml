@@ -1,0 +1,16 @@
+id: 457
+legacyId: 56a456b5ef3c8213c800cce4
+text: 无地会起厝，无米会做斋。
+annotations:
+- explanation: （竟然）能够。
+  indices: [2]
+  text: 会
+- explanation: 盖房子。
+  indices: [3, 4]
+  text: 起厝
+- explanation: 糯米制作的甜馅饼。俗写加“米”字旁。
+  indices: [10]
+  text: 斋
+audioIds: [6515bda1-e4dd-4d1a-9f66-6d8169223e91]
+tags: [惯用语]
+sourceId: 1

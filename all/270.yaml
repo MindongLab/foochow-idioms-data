@@ -1,0 +1,13 @@
+id: 270
+legacyId: 56a456b4ef3c8213c800cb6b
+text: 拆观音堂，起五帝庙。
+annotations:
+- explanation: 修建。
+  indices: [5]
+  text: 起
+- explanation: 福州民间信仰的瘟神，有张、钟、 刘、史、赵五位，合称五帝，神像形貌丑恶。
+  indices: [6, 7]
+  text: 五帝
+audioIds: [6fcf8a63-aa0a-413b-af16-730ff41222d6]
+tags: [世道清浊, 谚语]
+sourceId: 1

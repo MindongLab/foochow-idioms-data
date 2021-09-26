@@ -1,0 +1,16 @@
+id: 301
+legacyId: 56a456b4ef3c8213c800cbaa
+text: 男形母相，伓死破相。
+annotations:
+- explanation: 身为男人却有女性化的神态举止。
+  indices: [0, 1, 2, 3]
+  text: 男形母相
+- explanation: 不死也要残废。
+  indices: [5, 6, 7, 8]
+  text: 伓死破相
+- explanation: 残废。
+  indices: [7, 8]
+  text: 破相
+audioIds: [7972878b-54c2-47bb-999f-acd3f69d4346]
+tags: [众生百相, 谚语]
+sourceId: 1

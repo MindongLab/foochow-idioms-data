@@ -1,0 +1,20 @@
+id: 232
+legacyId: 56a456b4ef3c8213c800cb1e
+text: 人情剔得透，有鼎复无灶。
+annotations:
+- explanation: 亲友间贺喜的红包。
+  indices: [0, 1]
+  text: 人情
+- explanation: 打理的周全。
+  indices: [2, 3, 4]
+  text: 剔得透
+- explanation: 锅。
+  indices: [7]
+  text: 鼎
+- explanation: 又，却又；俗写“仅”字。
+  indices: [8]
+  text: 复
+audioIds: [511b6887-7bd4-4258-8345-0ae5a2100b8d]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 74

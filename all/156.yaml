@@ -1,0 +1,20 @@
+id: 156
+legacyId: 56a456b3ef3c8213c800ca82
+text: 共囝易褪疕，共孙共遘死。
+annotations:
+- explanation: 抚养照料。
+  indices: [0]
+  text: 共
+- explanation: 子女。
+  indices: [1]
+  text: 囝
+- explanation: 啤痂。疮愈痂 脱，比喻一个痛苦过程结束。《字汇补》：“庀：匹鄙切，疮 上甲。”
+  indices: [3, 4]
+  text: 褪疕
+- explanation: 到。
+  indices: [9]
+  text: 遘
+audioIds: [488353f6-bd77-41cb-a5b4-83d4ec5c2903]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 55

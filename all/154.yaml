@@ -1,0 +1,14 @@
+id: 154
+legacyId: 56a456b3ef3c8213c800ca7e
+text: 伲囝痞，大侬灾。
+annotations:
+- explanation: 孩子。
+  indices: [0, 1]
+  text: 伲囝
+- explanation: 大人。
+  indices: [4, 5]
+  text: 大侬
+audioIds: [49a513af-987c-425b-abca-602ff6886956]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 54

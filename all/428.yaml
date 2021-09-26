@@ -1,0 +1,13 @@
+id: 428
+legacyId: 56a456b5ef3c8213c800ccaa
+text: 番囝翻摆生。
+annotations:
+- explanation: 洋人。
+  indices: [0, 1]
+  text: 番囝
+- explanation: 〈音〉形容十分古怪。
+  indices: [2, 3, 4]
+  text: 翻摆生
+audioIds: [2c9a8499-4433-45d9-bfca-25132be97d9d]
+tags: [惯用语]
+sourceId: 1

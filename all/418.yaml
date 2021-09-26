@@ -1,0 +1,13 @@
+id: 418
+legacyId: 56a456b5ef3c8213c800cc96
+text: 好头好面臭股川。
+annotations:
+- explanation: 外表端正。
+  indices: [0, 1, 2, 3]
+  text: 好头好面
+- explanation: 屁股。
+  indices: [5, 6]
+  text: 股川
+audioIds: [b24d5c6a-7c6e-4c47-bb7e-4f09400e1285]
+tags: [惯用语]
+sourceId: 1

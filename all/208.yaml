@@ -1,0 +1,19 @@
+id: 208
+legacyId: 56a456b4ef3c8213c800caec
+text: "下邪\U00023350富，十二月颂纃裤。"
+annotations:
+- explanation: 耍赖占别人的便宜。
+  indices: [0, 1]
+  text: 下邪
+- explanation: 不能致富。
+  indices: [2, 3]
+  text: "\U00023350富"
+- explanation: 穿。
+  indices: [8]
+  text: 颂
+- explanation: 薄麻布的裤子。冬天着夏装，形容穷。
+  indices: [9, 10]
+  text: 纃裤
+audioIds: [141351ff-83da-42c3-bd7c-3dcea5f82652]
+tags: [钱财生计, 谚语]
+sourceId: 1

@@ -1,0 +1,16 @@
+id: 430
+legacyId: 56a456b5ef3c8213c800ccae
+text: 请来婆奶囝三旦。
+annotations:
+- explanation: 接生婆。
+  indices: [2, 3]
+  text: 婆奶
+- explanation: 儿子，孩子。
+  indices: [4]
+  text: 囝
+- explanation: 婴儿出生的第三日，旧俗在这一天庆贺宴客。
+  indices: [5, 6]
+  text: 三旦
+audioIds: [4faab479-4ec3-4cda-91f8-20afef8c7925]
+tags: [惯用语]
+sourceId: 1

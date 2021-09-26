@@ -1,0 +1,17 @@
+id: 81
+legacyId: 56a456b3ef3c8213c800c9e8
+text: 芋头果子尾。
+annotations:
+- explanation: 指新上市时。
+  indices: [1]
+  text: 头
+- explanation: 水果。
+  indices: [2, 3]
+  text: 果子
+- explanation: 指季末。
+  indices: [4]
+  text: 尾
+audioIds: [08ef2d52-1362-49a9-bb7c-baac7bbeef8b]
+tags: [物产美食, 谚语]
+sourceId: 1
+sourcePageNumber: 35

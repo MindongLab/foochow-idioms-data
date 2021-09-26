@@ -1,0 +1,23 @@
+id: 250
+legacyId: 56a456b4ef3c8213c800cb43
+text: 老爹讲郑盖讲起，百姓讲郑拍半死。
+annotations:
+- explanation: 老爷，特指官吏。
+  indices: [0, 1]
+  text: 老爹
+- explanation: 〈音〉错。
+  indices: [3]
+  text: 郑
+- explanation: 再重新讲。
+  indices: [4, 5, 6]
+  text: 盖讲起
+- explanation: 盖：再。
+  indices: [4]
+  text: 盖
+- explanation: 拍：打。
+  indices: [12]
+  text: 拍
+audioIds: [c1116ba0-bc8f-4fa0-8f69-d060d9427633]
+tags: [世道清浊, 谚语]
+sourceId: 1
+sourcePageNumber: 79

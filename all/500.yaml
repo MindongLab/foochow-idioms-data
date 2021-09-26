@@ -1,0 +1,11 @@
+id: 500
+legacyId: 56a456b5ef3c8213c800cd3c
+text: 有钱买饼当街咬——排场。
+annotations:
+- explanation: 向他人炫耀。
+  indices: [9, 10]
+  text: 排场
+audioIds: [4d857388-69ae-410b-bdcf-b27aa6474155]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 141

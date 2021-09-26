@@ -1,0 +1,16 @@
+id: 314
+legacyId: 56a456b4ef3c8213c800cbc5
+text: 井水罔绱罔出泉。
+annotations:
+- explanation: 一边……一边……
+  indices: [2, 4]
+  text: 罔……罔……
+- explanation: （用吊桶）吊（水）。
+  indices: [3]
+  text: 绱
+- explanation: 指涌入井中的清水；“泉”的读音特殊， 可能不是本字。
+  indices: [6]
+  text: 泉
+audioIds: [c7350fb4-d476-4dff-aa84-80a8230b0840]
+tags: [谐喻事理, 谚语]
+sourceId: 1

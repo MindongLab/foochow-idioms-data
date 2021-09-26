@@ -1,0 +1,22 @@
+id: 409
+legacyId: 56a456b5ef3c8213c800cc84
+text: 斧头拍凿凿拍柴，郎罢使囝囝使孙。
+annotations:
+- explanation: 击打。
+  indices: [2]
+  text: 拍
+- explanation: 凿子。
+  indices: [3]
+  text: 凿
+- explanation: 父亲。
+  indices: [8, 9]
+  text: 郎罢
+- explanation: 使唤。
+  indices: [10]
+  text: 使
+- explanation: 儿子。
+  indices: [11]
+  text: 囝
+audioIds: [09fa42ba-a2e6-41b7-98e4-3c18220d08a9]
+tags: [惯用语]
+sourceId: 1

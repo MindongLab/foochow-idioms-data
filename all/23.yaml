@@ -1,0 +1,11 @@
+id: 23
+legacyId: 56a456b3ef3c8213c800c971
+text: 春天伲囝面，拉屎戴斗笠。
+annotations:
+- explanation: 指小孩的脸。小孩子喜怒无常，比喻春季晴雨不定。
+  indices: [2, 3, 4]
+  text: 伲囝面
+audioIds: [d15871f1-0ae1-4ce9-a044-d0149334f6cd]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 19

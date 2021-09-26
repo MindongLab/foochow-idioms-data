@@ -1,0 +1,13 @@
+id: 180
+legacyId: 56a456b3ef3c8213c800cab3
+text: 伲婿别侬囝。
+annotations:
+- explanation: 女婿。
+  indices: [0, 1]
+  text: 伲婿
+- explanation: 别人家的儿子。
+  indices: [2, 3, 4]
+  text: 别侬囝
+audioIds: [842345b7-8c6b-480f-b09f-2bd2ef954fdd]
+tags: [亲戚关系, 谚语]
+sourceId: 1

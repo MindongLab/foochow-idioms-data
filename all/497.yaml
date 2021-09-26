@@ -1,0 +1,14 @@
+id: 497
+legacyId: 56a456b5ef3c8213c800cd36
+text: 小侬囝做媒侬——自身难保。
+annotations:
+- explanation: 处女。
+  indices: [0, 1, 2]
+  text: 小侬囝
+- explanation: 媒人。
+  indices: [4, 5]
+  text: 媒侬
+audioIds: [cd9253a6-b5c3-4b76-8163-10b140cf2271]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 140

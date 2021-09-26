@@ -1,0 +1,14 @@
+id: 100
+legacyId: 56a456b3ef3c8213c800ca0f
+text: 十男九痔，十女九带。
+annotations:
+- explanation: 痔疮是常见病、多发病，在古代更是十个人中就有八、九个患有此疾，其实女性因怀孕生子，比男性更易得，只是古代女性多因为羞涩而隐藏病史，无法统计。
+  indices: [3]
+  text: 痔
+- explanation: 指妇女的白带病。
+  indices: [8]
+  text: 带
+audioIds: [49610f53-3f58-40ca-9eb6-b5d59437f699]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 40

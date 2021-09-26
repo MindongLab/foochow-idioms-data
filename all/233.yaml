@@ -1,0 +1,17 @@
+id: 233
+legacyId: 56a456b4ef3c8213c800cb20
+text: 有裙无裤，世事着顾。
+annotations:
+- explanation: 顾了裙子顾不了裤子，形容经济窘迫。
+  indices: [0, 1, 2, 3]
+  text: 有裙无裤
+- explanation: 人生大事，指娶妻生子传宗接代等。
+  indices: [5, 6]
+  text: 世事
+- explanation: 要，必须。
+  indices: [7]
+  text: 着
+audioIds: [615d14d4-be83-4fca-9224-37680f3f5f4c]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 75

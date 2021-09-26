@@ -1,0 +1,13 @@
+id: 362
+legacyId: 56a456b5ef3c8213c800cc26
+text: "犬肉\U00023350上桌。"
+annotations:
+- explanation: 不能。
+  indices: [2]
+  text: "\U00023350"
+- explanation: 摆上席面。
+  indices: [3, 4]
+  text: 上桌
+audioIds: [69d87374-7563-4a80-9b6f-d767e1cd26d9]
+tags: [惯用语]
+sourceId: 1

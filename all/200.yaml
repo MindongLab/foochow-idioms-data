@@ -1,0 +1,13 @@
+id: 200
+legacyId: 56a456b4ef3c8213c800cadc
+text: “贫”字共“贪”蜀样写。
+annotations:
+- explanation: 与。
+  indices: [4]
+  text: 共
+- explanation: 同样。
+  indices: [8, 9]
+  text: 蜀样
+audioIds: [676595ab-befb-4f47-bef6-1cc06ad0ffba]
+tags: [钱财生计, 谚语]
+sourceId: 1

@@ -1,0 +1,20 @@
+id: 147
+legacyId: 56a456b3ef3c8213c800ca70
+text: 爹会奶会，无拆自家会。
+annotations:
+- explanation: 泛指掌握生活或生产的技能。
+  indices: [1]
+  text: 会
+- explanation: 奶：母亲。
+  indices: [2]
+  text: 奶
+- explanation: 抵不上。
+  indices: [6]
+  text: 拆
+- explanation: 自己。
+  indices: [7, 8]
+  text: 自家
+audioIds: [87f93f69-c066-4f32-8877-3b90ebacaf7a]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 52

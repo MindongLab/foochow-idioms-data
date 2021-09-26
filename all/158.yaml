@@ -1,0 +1,17 @@
+id: 158
+legacyId: 56a456b3ef3c8213c800ca86
+text: 罢奶疼尾囝，公妈疼长孙。
+annotations:
+- explanation: 父母。
+  indices: [0, 1]
+  text: 罢奶
+- explanation: 最小的孩子。
+  indices: [3, 4]
+  text: 尾囝
+- explanation: 祖父祖母。
+  indices: [6, 7]
+  text: 公妈
+audioIds: [254842ca-3566-41f5-9664-f742c244857c]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 55

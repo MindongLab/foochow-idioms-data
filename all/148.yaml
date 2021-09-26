@@ -1,0 +1,14 @@
+id: 148
+legacyId: 56a456b3ef3c8213c800ca72
+text: 三代无骂天，养囝中状元。
+annotations:
+- explanation: 没有怨天尤人。
+  indices: [2, 3, 4]
+  text: 无骂天
+- explanation: 儿子。
+  indices: [7]
+  text: 囝
+audioIds: [eca2e88a-1206-4835-bca7-fd8663379163]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 53

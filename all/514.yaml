@@ -1,0 +1,20 @@
+id: 514
+legacyId: 56a456b6ef3c8213c800cd59
+text: "十八钱尿壶——俪买\U00020CA5嘴。"
+annotations:
+- explanation: 十八个铜板。
+  indices: [0, 1, 2]
+  text: 十八钱
+- explanation: 只。
+  indices: [7]
+  text: 俪
+- explanation: 动态助词；了。
+  indices: [9]
+  text: "\U00020CA5"
+- explanation: 尿壶口，双关指嘴巴。
+  indices: [10]
+  text: 嘴
+audioIds: [79604b4e-09ec-47d7-8f7e-9ce92a91dc8d]
+tags: [歇后语, 双关类]
+sourceId: 1
+sourcePageNumber: 144

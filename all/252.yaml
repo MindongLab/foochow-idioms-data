@@ -1,0 +1,22 @@
+id: 252
+legacyId: 56a456b4ef3c8213c800cb47
+text: 呆牛呆马搦去刣，呆侬无法惹伊才。
+annotations:
+- explanation: 坏，方言音从《广韵》五来切。
+  indices: [0]
+  text: 呆
+- explanation: 〈借用字〉捉。
+  indices: [4]
+  text: 搦
+- explanation: 〈方言俗字〉宰杀，本字“治”。
+  indices: [6]
+  text: 刣
+- explanation: 坏人。
+  indices: [8, 9]
+  text: 呆侬
+- explanation: 对他无可奈何。
+  indices: [10, 11, 12, 13, 14]
+  text: 无法惹伊才
+audioIds: [a6cd8091-6f18-41c0-8001-3ebe0129609f]
+tags: [世道清浊, 谚语]
+sourceId: 1

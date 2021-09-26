@@ -1,0 +1,13 @@
+id: 318
+legacyId: 56a456b4ef3c8213c800cbcd
+text: 八背煮水会夹鼎。
+annotations:
+- explanation: 倒霉。
+  indices: [0, 1]
+  text: 八背
+- explanation: 粘锅。
+  indices: [5, 6]
+  text: 夹鼎
+audioIds: [24188cb8-3d56-4ce8-81ae-e10c1838c0c6]
+tags: [谐喻事理, 谚语]
+sourceId: 1

@@ -1,0 +1,11 @@
+id: 62
+legacyId: 56a456b3ef3c8213c800c9c1
+text: 悻悻犬，咬死侬。
+annotations:
+- explanation: 指不爱吠叫的狗。
+  indices: [0, 1, 2]
+  text: 悻悻犬
+audioIds: [8f7e5dbd-c18c-4e10-85bb-e0332b1148a6]
+tags: [猫犬蛇鼠, 谚语]
+sourceId: 1
+sourcePageNumber: 30

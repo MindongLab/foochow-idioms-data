@@ -1,0 +1,22 @@
+id: 258
+legacyId: 56a456b4ef3c8213c800cb53
+text: "江\U00020CA5伓去讨，碗\U00020CA5对头夺。"
+annotations:
+- explanation: 处所助词；本字“里”。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 不去。
+  indices: [2, 3]
+  text: 伓去
+- explanation: 捕（鱼）。
+  indices: [4]
+  text: 讨
+- explanation: 互相争夺。
+  indices: [8, 9, 10]
+  text: 对头夺
+- explanation: 副词；相互。
+  indices: [8, 9]
+  text: 对头
+audioIds: [d1fcb2c9-d6cb-40b2-9fbd-aada909c74bd]
+tags: [世道清浊, 谚语]
+sourceId: 1

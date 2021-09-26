@@ -1,0 +1,20 @@
+id: 123
+legacyId: 56a456b3ef3c8213c800ca3e
+text: 心间搭搭，伓惊菩萨。
+annotations:
+- explanation: 胸口。
+  indices: [0, 1]
+  text: 心间
+- explanation: 拍一拍。
+  indices: [2, 3]
+  text: 搭搭
+- explanation: 不怕。
+  indices: [5, 6]
+  text: 伓惊
+- explanation: 福州民间信仰的各种神灵都称为“菩萨”。
+  indices: [7, 8]
+  text: 菩萨
+audioIds: [1b5e5397-f34f-405c-92a7-5e2a087b4e13]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 46

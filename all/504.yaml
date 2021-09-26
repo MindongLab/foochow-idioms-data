@@ -1,0 +1,14 @@
+id: 504
+legacyId: 56a456b5ef3c8213c800cd44
+text: 建宁府鸡叫——洽迟。
+annotations:
+- explanation: 今闽北地区，包括建瓯、建阳、武夷山、浦城等市县。俗以为闽北山高日出迟。
+  indices: [0, 1, 2]
+  text: 建宁府
+- explanation: 程度副词；太。
+  indices: [7]
+  text: 洽
+audioIds: [cc60e5a7-fc71-4646-ad20-968e015d8d13]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 142

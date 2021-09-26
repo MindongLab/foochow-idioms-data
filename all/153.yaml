@@ -1,0 +1,23 @@
+id: 153
+legacyId: 56a456b3ef3c8213c800ca7c
+text: 好囝伓使価，呆囝载其无。
+annotations:
+- explanation: 儿子。
+  indices: [1]
+  text: 囝
+- explanation: 不用。
+  indices: [2, 3]
+  text: 伓使
+- explanation: 〈方言俗字〉多。
+  indices: [4]
+  text: 価
+- explanation: 品行不良的子女。
+  indices: [6, 7]
+  text: 呆囝
+- explanation: 宁可。
+  indices: [8, 9]
+  text: 载其
+audioIds: [0abbfff2-4277-4b5a-82a5-9b9e48d4f797]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 54

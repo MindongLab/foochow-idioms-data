@@ -1,0 +1,23 @@
+id: 109
+legacyId: 56a456b3ef3c8213c800ca22
+text: "活\U00020CA5若伓乐，死去硬核核。"
+annotations:
+- explanation: 活着。
+  indices: [0, 1]
+  text: "活\U00020CA5"
+- explanation: 动态助词“着”的意思。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 要是。
+  indices: [2]
+  text: 若
+- explanation: 不及时行乐。
+  indices: [3, 4]
+  text: 伓乐
+- explanation: 硬梆梆。
+  indices: [8, 9, 10]
+  text: 硬核核
+audioIds: [11bfb317-e541-4b06-920d-a6f1ddf45598]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 42

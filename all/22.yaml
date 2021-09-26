@@ -1,0 +1,14 @@
+id: 22
+legacyId: 56a456b3ef3c8213c800c96f
+text: 早虹雨滴滴，晚虹雨断滴。
+annotations:
+- explanation: 傍晚的彩虹。
+  indices: [6, 7]
+  text: 晚虹
+- explanation: 一滴雨都没有。
+  indices: [9, 10]
+  text: 断滴
+audioIds: [1bc45a4f-b122-4074-a6ee-a4e5611679d7]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 19

@@ -1,0 +1,14 @@
+id: 110
+legacyId: 56a456b3ef3c8213c800ca24
+text: 未生侬，先生命。
+annotations:
+- explanation: 人。
+  indices: [2]
+  text: 侬
+- explanation: 命运。
+  indices: [6]
+  text: 命
+audioIds: [6de97901-0e11-4308-bb47-4acbab91e1e1]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 43

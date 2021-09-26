@@ -1,0 +1,19 @@
+id: 263
+legacyId: 56a456b4ef3c8213c800cb5d
+text: 偷搦其鸡母无论重。
+annotations:
+- explanation: 〈借用字〉捉。
+  indices: [1]
+  text: 搦
+- explanation: 结构助词；的。
+  indices: [2]
+  text: 其
+- explanation: 母鸡。
+  indices: [3, 4]
+  text: 鸡母
+- explanation: 不论斤两。
+  indices: [5, 6, 7]
+  text: 无论重
+audioIds: [1d1ae06f-ffbc-41d1-87bd-8f1aab028242]
+tags: [世道清浊, 谚语]
+sourceId: 1

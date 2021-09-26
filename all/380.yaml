@@ -1,0 +1,19 @@
+id: 380
+legacyId: 56a456b5ef3c8213c800cc4a
+text: 存做新妇，就伓惊生囝。
+annotations:
+- explanation: 存心，打定主意。
+  indices: [0]
+  text: 存
+- explanation: 出嫁。
+  indices: [1, 2, 3]
+  text: 做新妇
+- explanation: 不怕。
+  indices: [6, 7]
+  text: 伓惊
+- explanation: 生孩子。
+  indices: [8, 9]
+  text: 生囝
+audioIds: [4d2ea185-6de1-48e4-8736-51e7269d223d]
+tags: [惯用语]
+sourceId: 1

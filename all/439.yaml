@@ -1,0 +1,13 @@
+id: 439
+legacyId: 56a456b5ef3c8213c800ccc0
+text: 食死皮包骨。
+annotations:
+- explanation: 拼命吃。
+  indices: [0, 1]
+  text: 食死
+- explanation: 形容极瘦。
+  indices: [2, 3, 4]
+  text: 皮包骨
+audioIds: [3addf04a-3e29-4d82-9a3f-3f41182620a3]
+tags: [惯用语]
+sourceId: 1

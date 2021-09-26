@@ -1,0 +1,13 @@
+id: 295
+legacyId: 56a456b4ef3c8213c800cb9e
+text: 长衫重马褂，尿壶无对挂。
+annotations:
+- explanation: 穿长衫套马褂，指穿着像个有钱人。
+  indices: [0, 1, 2, 3, 4]
+  text: 长衫重马褂
+- explanation: 无处。“对”写同音字。
+  indices: [8, 9]
+  text: 无对
+audioIds: [ef6beaac-6036-4fcc-9699-ced1a62a3ec6]
+tags: [众生百相, 谚语]
+sourceId: 1

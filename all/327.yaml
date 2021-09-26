@@ -1,0 +1,19 @@
+id: 327
+legacyId: 56a456b4ef3c8213c800cbdf
+text: 鸭母妆死嘴是扁其。
+annotations:
+- explanation: 母鸭。
+  indices: [0, 1]
+  text: 鸭母
+- explanation: 打扮。
+  indices: [2]
+  text: 妆
+- explanation: 作程度补语，表示程度深。
+  indices: [3]
+  text: 死
+- explanation: 的。
+  indices: [7]
+  text: 其
+audioIds: [29fa7974-b816-4d12-aa77-825d902b58c9]
+tags: [谐喻事理, 谚语]
+sourceId: 1

@@ -1,0 +1,17 @@
+id: 174
+legacyId: 56a456b3ef3c8213c800caa6
+text: 乍讨新妇月裡囝。
+annotations:
+- explanation: 刚娶的。
+  indices: [0, 1]
+  text: 乍讨
+- explanation: 媳妇。
+  indices: [2, 3]
+  text: 新妇
+- explanation: 未满月的婴儿。
+  indices: [4, 5, 6]
+  text: 月裡囝
+audioIds: [cf161e5e-100f-4a43-9d90-244f38574f6a]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 60

@@ -1,0 +1,23 @@
+id: 138
+legacyId: 56a456b3ef3c8213c800ca5d
+text: 媒侬百二顿，养囝固蜀顿。
+annotations:
+- explanation: 媒人。
+  indices: [0, 1]
+  text: 媒侬
+- explanation: （酬谢媒人，请吃）一百二 十顿饭。
+  indices: [2, 3, 4]
+  text: 百二顿
+- explanation: 养囝：生孩子。
+  indices: [6, 7]
+  text: 养囝
+- explanation: 固：还。
+  indices: [8]
+  text: 固
+- explanation: 蜀顿：一顿。
+  indices: [9, 10]
+  text: 蜀顿
+audioIds: [23e32b11-c736-4115-94e9-4b6cc02022ab]
+tags: [男女婚配, 谚语]
+sourceId: 1
+sourcePageNumber: 50

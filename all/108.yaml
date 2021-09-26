@@ -1,0 +1,14 @@
+id: 108
+legacyId: 56a456b3ef3c8213c800ca20
+text: 七溜八溜，无拆福州。
+annotations:
+- explanation: 东游西逛，走南闯北。
+  indices: [0, 1, 2, 3]
+  text: 七溜八溜
+- explanation: （哪儿都）比不上。
+  indices: [5, 6]
+  text: 无拆
+audioIds: [d600d2dc-67ec-4b18-a834-5d9634afef68]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 42

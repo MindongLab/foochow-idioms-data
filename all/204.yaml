@@ -1,0 +1,19 @@
+id: 204
+legacyId: 56a456b4ef3c8213c800cae4
+text: 省食钱债轻，省颂衣裳新。
+annotations:
+- explanation: 节省。
+  indices: [0]
+  text: 省
+- explanation: 饮食。
+  indices: [1]
+  text: 食
+- explanation: 债务。
+  indices: [2, 3]
+  text: 钱债
+- explanation: 穿著。
+  indices: [7]
+  text: 颂
+audioIds: [8850b26c-a58a-49eb-ab4b-858512aa31ba]
+tags: [钱财生计, 谚语]
+sourceId: 1

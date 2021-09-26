@@ -1,0 +1,20 @@
+id: 245
+legacyId: 56a456b4ef3c8213c800cb38
+text: "蜀句话\U00023350益两介侬。"
+annotations:
+- explanation: 一。
+  indices: [0]
+  text: 蜀
+- explanation: 不能。
+  indices: [3]
+  text: "\U00023350"
+- explanation: 使……受益。
+  indices: [4]
+  text: 益
+- explanation: 两个人，指矛盾双方。
+  indices: [5, 6, 7]
+  text: 两介侬
+audioIds: [23669a96-0d81-44f3-8bdd-948ea5fb1213]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 78

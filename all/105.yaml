@@ -1,0 +1,14 @@
+id: 105
+legacyId: 56a456b3ef3c8213c800ca19
+text: 官急无拆私急。
+annotations:
+- explanation: 比不上。
+  indices: [2, 3]
+  text: 无拆
+- explanation: 指急于上厕所。
+  indices: [4, 5]
+  text: 私急
+audioIds: [4abd2a06-b6ad-4f0f-a92d-3b6d5ee014d4]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 41

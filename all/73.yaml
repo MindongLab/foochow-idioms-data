@@ -1,0 +1,23 @@
+id: 73
+legacyId: 56a456b3ef3c8213c800c9d8
+text: "颂棉袄食蟟囝，褪\U00029A4D\U00029A4D食蛤。"
+annotations:
+- explanation: 福州话“穿”的意思。
+  indices: [0]
+  text: 颂
+- explanation: 吃。
+  indices: [3]
+  text: 食
+- explanation: 蚬子。
+  indices: [4, 5]
+  text: 蟟囝
+- explanation: 赤膊。
+  indices: [7, 8, 9]
+  text: "褪\U00029A4D\U00029A4D"
+- explanation: 花蛤，一种海产的薄壳贝类。
+  indices: [11]
+  text: 蛤
+audioIds: [2411ac14-23fb-4ebf-a892-017862030112]
+tags: [物产美食, 谚语]
+sourceId: 1
+sourcePageNumber: 33

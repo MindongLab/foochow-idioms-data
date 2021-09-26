@@ -1,0 +1,13 @@
+id: 449
+legacyId: 56a456b5ef3c8213c800ccd4
+text: 上轿缠骹。
+annotations:
+- explanation: 指上花轿。
+  indices: [0, 1]
+  text: 上轿
+- explanation: 脚。
+  indices: [3]
+  text: 骹
+audioIds: [17cc9878-c557-47df-9ec2-5c923b5424d5]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,13 @@
+id: 422
+legacyId: 56a456b5ef3c8213c800cc9e
+text: 无水游九铺。
+annotations:
+- explanation: 没有水。
+  indices: [0, 1]
+  text: 无水
+- explanation: 里程单位，十里为一铺。
+  indices: [4]
+  text: 铺
+audioIds: [3f17e274-330e-450a-adcc-2df46fd64226]
+tags: [惯用语]
+sourceId: 1

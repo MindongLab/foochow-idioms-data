@@ -1,0 +1,13 @@
+id: 417
+legacyId: 56a456b5ef3c8213c800cc94
+text: 拍落身固当做喜事。
+annotations:
+- explanation: 打胎。
+  indices: [0, 1, 2]
+  text: 拍落身
+- explanation: 还当是。
+  indices: [3, 4]
+  text: 固当
+audioIds: [2a4fc842-9f26-4798-b596-200ae1fb56ae]
+tags: [惯用语]
+sourceId: 1

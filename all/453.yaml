@@ -1,0 +1,13 @@
+id: 453
+legacyId: 56a456b5ef3c8213c800ccdc
+text: 熻熻食两碗半。
+annotations:
+- explanation: 闷声不响地；谐音双关指焖锅饭。
+  indices: [0, 1]
+  text: 熻熻
+- explanation: 吃。
+  indices: [2]
+  text: 食
+audioIds: [15eff81e-90ce-4383-b9dd-a683153d2efc]
+tags: [惯用语]
+sourceId: 1

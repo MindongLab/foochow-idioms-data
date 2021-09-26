@@ -1,0 +1,16 @@
+id: 399
+legacyId: 56a456b5ef3c8213c800cc70
+text: 无位尖台中。
+annotations:
+- explanation: 没有位子。
+  indices: [0, 1]
+  text: 无位
+- explanation: 挤进。
+  indices: [2]
+  text: 尖
+- explanation: 中间。
+  indices: [3, 4]
+  text: 台中
+audioIds: [c8323d35-2751-46d5-b28a-09d75b0fdf98]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,13 @@
+id: 317
+legacyId: 56a456b4ef3c8213c800cbcb
+text: 细倪碰着沙。
+annotations:
+- explanation: 爱计较、爱挑剔（的人）。
+  indices: [0, 1]
+  text: 细倪
+- explanation: 指米饭中的沙子。
+  indices: [4]
+  text: 沙
+audioIds: [86ce5a64-6b87-4887-b7de-ee8a748b6ca0]
+tags: [谐喻事理, 谚语]
+sourceId: 1

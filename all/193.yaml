@@ -1,0 +1,10 @@
+id: 193
+legacyId: 56a456b4ef3c8213c800cace
+text: 福州价，半半价。
+annotations:
+- explanation: 一半。
+  indices: [4, 5]
+  text: 半半
+audioIds: [7a310670-fcd4-41ae-804b-3a24699f5dce]
+tags: [钱财生计, 谚语]
+sourceId: 1

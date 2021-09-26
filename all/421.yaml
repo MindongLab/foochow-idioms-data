@@ -1,0 +1,16 @@
+id: 421
+legacyId: 56a456b5ef3c8213c800cc9c
+text: "府\U00020CA5复误，县\U00020CA5复误。"
+annotations:
+- explanation: 指旧府县的衙门。
+  indices: [0]
+  text: 府
+- explanation: 〈方言俗字〉处所助词，本字“里”。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 又，俗写作“仅”字。
+  indices: [2]
+  text: 复
+audioIds: [61883146-235e-442d-b519-02f331d31b27]
+tags: [惯用语]
+sourceId: 1

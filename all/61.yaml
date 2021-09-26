@@ -1,0 +1,17 @@
+id: 61
+legacyId: 56a456b3ef3c8213c800c9bf
+text: 猫投穷，犬投富。
+annotations:
+- explanation: 投靠。
+  indices: [1]
+  text: 投
+- explanation: 穷户。
+  indices: [2]
+  text: 穷
+- explanation: 富户。
+  indices: [6]
+  text: 富
+audioIds: [459d6fe5-ebb3-40f5-b9d7-e14167fd94dd]
+tags: [猫犬蛇鼠, 谚语]
+sourceId: 1
+sourcePageNumber: 30

@@ -1,0 +1,23 @@
+id: 499
+legacyId: 56a456b5ef3c8213c800cd3a
+text: 伓使伴房妈会上轿——无师假师。
+annotations:
+- explanation: 不用。
+  indices: [0, 1]
+  text: 伓使
+- explanation: 职业性的婚礼伴娘，多为中年妇女，能说会道，熟悉各种繁文缛节。
+  indices: [2, 3, 4]
+  text: 伴房妈
+- explanation: 上花轿。
+  indices: [6, 7]
+  text: 上轿
+- explanation: 不懂装懂。
+  indices: [10, 11, 12, 13]
+  text: 无师假师
+- explanation: 〈白读音〉精通，俗或写作“司”。
+  indices: [11]
+  text: 师
+audioIds: [4833a737-f6a2-441d-9997-f799d422784b]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 140

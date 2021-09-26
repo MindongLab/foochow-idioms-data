@@ -1,0 +1,13 @@
+id: 195
+legacyId: 56a456b4ef3c8213c800cad2
+text: "便宜无好乇，好乇\U00023350便宜。"
+annotations:
+- explanation: 〈方言俗字〉东西，货色。
+  indices: [4]
+  text: 乇
+- explanation: 〈方言俗字〉不会。
+  indices: [8]
+  text: "\U00023350"
+audioIds: [5f950bf8-108d-4973-8132-ab4ce5232081]
+tags: [钱财生计, 谚语]
+sourceId: 1

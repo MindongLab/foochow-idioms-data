@@ -1,0 +1,11 @@
+id: 41
+legacyId: 56a456b3ef3c8213c800c995
+text: 六月初三雨，七月多晡时。
+annotations:
+- explanation: 也说“晡时雨”，即雷阵雨。
+  indices: [9, 10]
+  text: 晡时
+audioIds: [0c6a8a19-d789-4a21-9d25-96803bd3b946]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 25

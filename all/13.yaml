@@ -1,0 +1,17 @@
+id: 13
+legacyId: 56a456b3ef3c8213c800c95d
+text: 惊蛰未遘雷先发，七七四十九不见天。
+annotations:
+- explanation: 到的意思。
+  indices: [3]
+  text: 遘
+- explanation: 虚数，多的意思。其中“四十”念合音。
+  indices: [8, 9, 10, 11, 12]
+  text: 七七四十九
+- explanation: 指没有晴朗的日子。
+  indices: [13, 14, 15]
+  text: 不见天
+audioIds: [9e9366b3-0c27-4757-bd9c-ca657ae6ef35]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 16

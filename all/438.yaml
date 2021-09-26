@@ -1,0 +1,19 @@
+id: 438
+legacyId: 56a456b5ef3c8213c800ccbe
+text: "会八偷食，\U00023350八拭嘴。"
+annotations:
+- explanation: 懂得（如何）。
+  indices: [0, 1]
+  text: 会八
+- explanation: 偷吃。
+  indices: [2, 3]
+  text: 偷食
+- explanation: 不懂得。
+  indices: [5, 6]
+  text: "\U00023350八"
+- explanation: 抹擦。
+  indices: [7]
+  text: 拭
+audioIds: [bc4f687d-d7cb-430a-a472-4bb5384907b7]
+tags: [惯用语]
+sourceId: 1

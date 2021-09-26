@@ -1,0 +1,13 @@
+id: 197
+legacyId: 56a456b4ef3c8213c800cad6
+text: 亲兄弟，明算数。
+annotations:
+- explanation: 当面。
+  indices: [4]
+  text: 明
+- explanation: 账目。
+  indices: [6]
+  text: 数
+audioIds: [fa01f866-78b5-486b-a50f-de712e626797]
+tags: [钱财生计, 谚语]
+sourceId: 1

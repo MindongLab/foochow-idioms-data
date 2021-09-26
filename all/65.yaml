@@ -1,0 +1,17 @@
+id: 65
+legacyId: 56a456b3ef3c8213c800c9c7
+text: 走蛇走弯弯，走虎走落山。
+annotations:
+- explanation: 逃。
+  indices: [0]
+  text: 走
+- explanation: 绕着弯逃跑。
+  indices: [2, 3, 4]
+  text: 走弯弯
+- explanation: 指下山。
+  indices: [9, 10]
+  text: 落山
+audioIds: [10b61fc3-e91e-422d-b030-89910ba1289f]
+tags: [猫犬蛇鼠, 谚语]
+sourceId: 1
+sourcePageNumber: 31

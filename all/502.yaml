@@ -1,0 +1,17 @@
+id: 502
+legacyId: 56a456b5ef3c8213c800cd40
+text: 蒲蝇鼻，乞食耳——野真。
+annotations:
+- explanation: 苍蝇。
+  indices: [0, 1]
+  text: 蒲蝇
+- explanation: 乞丐。
+  indices: [4, 5]
+  text: 乞食
+- explanation: 感觉灵敏，判断准确。
+  indices: [10]
+  text: 真
+audioIds: [d6aaa904-6111-4003-be9e-0a28027b1bb5]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 141

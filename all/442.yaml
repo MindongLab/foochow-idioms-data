@@ -1,0 +1,13 @@
+id: 442
+legacyId: 56a456b5ef3c8213c800ccc6
+text: 九十九，整蜀百。
+annotations:
+- explanation: 凑成整数。
+  indices: [4]
+  text: 整
+- explanation: 一百。
+  indices: [5, 6]
+  text: 蜀百
+audioIds: [df09bfed-ccca-4bb0-8a3a-666d66e62b72]
+tags: [惯用语]
+sourceId: 1

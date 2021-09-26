@@ -1,0 +1,13 @@
+id: 395
+legacyId: 56a456b5ef3c8213c800cc68
+text: 道士拍死道士声。
+annotations:
+- explanation: 打死。
+  indices: [2, 3]
+  text: 拍死
+- explanation: 道士的腔调。
+  indices: [4, 5, 6]
+  text: 道士声
+audioIds: [a136e3fb-a53d-4ffe-a24e-f04a9b30004a]
+tags: [惯用语]
+sourceId: 1

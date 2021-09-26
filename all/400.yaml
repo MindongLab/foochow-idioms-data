@@ -1,0 +1,13 @@
+id: 400
+legacyId: 56a456b5ef3c8213c800cc72
+text: 上半冥肖鸡，下半冥肖鸭。
+annotations:
+- explanation: 夜。
+  indices: [2]
+  text: 冥
+- explanation: （生肖）属鸡。
+  indices: [9]
+  text: 肖
+audioIds: [29363f69-5044-4085-bac1-609f7accc7b9]
+tags: [惯用语]
+sourceId: 1

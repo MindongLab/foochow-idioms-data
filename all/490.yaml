@@ -1,0 +1,17 @@
+id: 490
+legacyId: 56a456b5ef3c8213c800cd28
+text: 火烧厝好看——受怪东家。
+annotations:
+- explanation: 火烧房子，失火。
+  indices: [0, 1, 2]
+  text: 火烧厝
+- explanation: 可怜。“怪”的本字可能是“过”。
+  indices: [7, 8]
+  text: 受怪
+- explanation: 指事主。
+  indices: [9, 10]
+  text: 东家
+audioIds: [102dfcfa-eef0-4554-8539-66beadcd3caa]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 138

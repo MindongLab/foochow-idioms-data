@@ -1,0 +1,16 @@
+id: 188
+legacyId: 56a456b4ef3c8213c800cac3
+text: 载住粪坑厝，伓住外家厝。
+annotations:
+- explanation: 宁可……也不……。
+  indices: [0, 6]
+  text: 载……伓……
+- explanation: 厕所。
+  indices: [2, 3, 4]
+  text: 粪坑厝
+- explanation: 娘家的房子。
+  indices: [8, 9, 10]
+  text: 外家厝
+audioIds: [2827d2d3-8c40-4cf9-b964-f2857529c81a]
+tags: [亲戚关系, 谚语]
+sourceId: 1

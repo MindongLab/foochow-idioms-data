@@ -1,0 +1,14 @@
+id: 11
+legacyId: 56a456b2ef3c8213c800c959
+text: 六月拍犬伓出门。
+annotations:
+- explanation: 打的意思，此处指驱赶。
+  indices: [2]
+  text: 拍
+- explanation: 不。
+  indices: [4]
+  text: 伓
+audioIds: [0edcdde9-b29d-4fc3-a4f1-130332f71818]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 16

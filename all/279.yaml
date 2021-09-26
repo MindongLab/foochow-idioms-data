@@ -1,0 +1,19 @@
+id: 279
+legacyId: 56a456b4ef3c8213c800cb7e
+text: "\U00020219瓜无瓤，\U00020219囝无腹肠。"
+annotations:
+- explanation: 未熟透的瓜，此处“瓜”特指丝瓜。
+  indices: [0, 1]
+  text: "\U00020219瓜"
+- explanation: 指晾干的丝瓜瓤，常用作洗涤用具。
+  indices: [3]
+  text: 瓤
+- explanation: 缺乏知识和经验的年轻人。
+  indices: [5, 6]
+  text: "\U00020219囝"
+- explanation: 没有肠子，喻指缺乏心计。
+  indices: [7, 8, 9]
+  text: 无腹肠
+audioIds: [ac562cee-7753-4844-a388-3d79ac4eb3c6]
+tags: [众生百相, 谚语]
+sourceId: 1

@@ -1,0 +1,20 @@
+id: 167
+legacyId: 56a456b3ef3c8213c800ca98
+text: "蜀条烛，点\U00020CA5岸岸光。"
+annotations:
+- explanation: 一根。
+  indices: [0, 1]
+  text: 蜀条
+- explanation: 结构助词；得。
+  indices: [5]
+  text: "\U00020CA5"
+- explanation: 亮堂堂。
+  indices: [6, 7, 8]
+  text: 岸岸光
+- explanation: （音）明亮。
+  indices: []
+  text: ''
+audioIds: [fe51a735-4ba6-43d0-8b86-ece4d1604bdd]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 58

@@ -1,0 +1,13 @@
+id: 465
+legacyId: 56a456b5ef3c8213c800ccf4
+text: 买炮仗，别侬放。
+annotations:
+- explanation: 鞭炮。
+  indices: [1, 2]
+  text: 炮仗
+- explanation: 别人。
+  indices: [4, 5]
+  text: 别侬
+audioIds: [71a63fe3-8987-4c2f-8add-5a243805e585]
+tags: [惯用语]
+sourceId: 1

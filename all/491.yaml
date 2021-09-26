@@ -1,0 +1,14 @@
+id: 491
+legacyId: 56a456b5ef3c8213c800cd2a
+text: "乞食养画眉——死\U00023350八倒。"
+annotations:
+- explanation: 乞丐。
+  indices: [0, 1]
+  text: 乞食
+- explanation: 死了也不晓得该倒下。意思是已落到如此糟糕境地还学公子哥儿玩鸟摆谱。
+  indices: [7, 8, 9, 10]
+  text: "死\U00023350八倒"
+audioIds: [d04d5e84-230a-47c8-b3cf-37d859ea9e7c]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 139

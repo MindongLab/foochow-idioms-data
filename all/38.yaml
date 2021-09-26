@@ -1,0 +1,11 @@
+id: 38
+legacyId: 56a456b3ef3c8213c800c98f
+text: 风颱不大，回南倒大。
+annotations:
+- explanation: 反而。
+  indices: [7]
+  text: 倒
+audioIds: [af8d61d4-c9b3-4f50-bd8d-235fd97213db]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 24

@@ -1,0 +1,13 @@
+id: 445
+legacyId: 56a456b5ef3c8213c800cccc
+text: 荒唐（方肠）拉四角屎。
+annotations:
+- explanation: 福州话骂人“荒唐”，犹北方话骂“混账”，与 “方肠”二字同音。
+  indices: [0, 1]
+  text: 荒唐
+- explanation: 方形的。
+  indices: [7, 8]
+  text: 四角
+audioIds: [ff426a6b-42d0-4414-b828-be078e5b4d19]
+tags: [惯用语]
+sourceId: 1

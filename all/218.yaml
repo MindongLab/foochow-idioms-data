@@ -1,0 +1,25 @@
+id: 218
+legacyId: 56a456b4ef3c8213c800cb01
+text: 做田无功夫，俪八骹手粗。
+annotations:
+- explanation: 务农。
+  indices: [0, 1]
+  text: 做田
+- explanation: 技能。
+  indices: [3, 4]
+  text: 功夫
+- explanation: 只要……就行。
+  indices: [6, 7]
+  text: 俪八
+- explanation: 〈借用字〉只，仅。
+  indices: [6]
+  text: 俪
+- explanation: 懂，知道。
+  indices: [7]
+  text: 八
+- explanation: 脚。
+  indices: [8]
+  text: 骹
+audioIds: [f8cf7fd6-baa1-41ce-939b-68e7845d342f]
+tags: [劳动生产, 谚语]
+sourceId: 1

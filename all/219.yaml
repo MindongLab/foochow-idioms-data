@@ -1,0 +1,13 @@
+id: 219
+legacyId: 56a456b4ef3c8213c800cb03
+text: 蜀日肩，两日骹。
+annotations:
+- explanation: 一。
+  indices: [0]
+  text: 蜀
+- explanation: 脚，腿。
+  indices: [6]
+  text: 骹
+audioIds: [a4d6a947-dbfe-42a1-99e3-d5622d9ecb4d]
+tags: [劳动生产, 谚语]
+sourceId: 1

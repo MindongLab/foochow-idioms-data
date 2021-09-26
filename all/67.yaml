@@ -1,0 +1,14 @@
+id: 67
+legacyId: 56a456b3ef3c8213c800c9cb
+text: 猫三犬四猪母五。
+annotations:
+- explanation: 指孕期月数。
+  indices: [1, 3, 6]
+  text: 三……四……五……
+- explanation: 指母猪。
+  indices: [4, 5]
+  text: 猪母
+audioIds: [0606b360-2667-41f1-9867-36041ef584c1]
+tags: [猫犬蛇鼠, 谚语]
+sourceId: 1
+sourcePageNumber: 32

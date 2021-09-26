@@ -1,0 +1,19 @@
+id: 393
+legacyId: 56a456b5ef3c8213c800cc64
+text: "和尚\U00023350做姆\U00023350讨。"
+annotations:
+- explanation: 做不了。
+  indices: [2, 3]
+  text: "\U00023350做"
+- explanation: 老婆。
+  indices: [4]
+  text: 姆
+- explanation: 老婆找不到。
+  indices: [4, 5, 6]
+  text: "姆\U00023350讨"
+- explanation: 找。
+  indices: [6]
+  text: 讨
+audioIds: [b7564d02-5bea-484a-97da-256dddaa6219]
+tags: [惯用语]
+sourceId: 1

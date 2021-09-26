@@ -1,0 +1,13 @@
+id: 455
+legacyId: 56a456b5ef3c8213c800cce0
+text: "摊\U00020CA5无排，担\U00020CA5无卖。"
+annotations:
+- explanation: 处所助词，本字“里”。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 摆放（待售）。
+  indices: [3]
+  text: 排
+audioIds: [0c2b7244-67f8-4035-8e2f-db9e4e00e9cb]
+tags: [惯用语]
+sourceId: 1

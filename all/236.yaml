@@ -1,0 +1,14 @@
+id: 236
+legacyId: 56a456b4ef3c8213c800cb26
+text: 君子无赢头盘棋。
+annotations:
+- explanation: 不贏。
+  indices: [2, 3]
+  text: 无赢
+- explanation: 第一盘。
+  indices: [4, 5, 6]
+  text: 头盘棋
+audioIds: [5106cc56-5af9-4b33-97ec-d7776ce4a9bf]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 75

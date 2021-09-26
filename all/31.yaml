@@ -1,0 +1,17 @@
+id: 31
+legacyId: 56a456b3ef3c8213c800c981
+text: 芒种降雨火烧街，夏至降雨滥蒲蒲。
+annotations:
+- explanation: 读特殊的口语音，俗写同音的“祸”字。
+  indices: [3]
+  text: 雨
+- explanation: 形容干燥炎热。
+  indices: [4, 5, 6]
+  text: 火烧街
+- explanation: 湿淋淋。
+  indices: [12, 13, 14]
+  text: 滥蒲蒲
+audioIds: [6cb0d6cb-9805-4055-939a-9ebb8b7ae7a1]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 22

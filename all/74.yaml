@@ -1,0 +1,14 @@
+id: 74
+legacyId: 56a456b3ef3c8213c800c9da
+text: 当被单，买泛三。
+annotations:
+- explanation: 曲当。
+  indices: [0]
+  text: 当
+- explanation: 农历三月大量上市的大黄鱼，俗写同音的“横三”。
+  indices: [5, 6]
+  text: 泛三
+audioIds: [7c856928-b389-47d6-970d-e5d1a8bb66f6]
+tags: [物产美食, 谚语]
+sourceId: 1
+sourcePageNumber: 33

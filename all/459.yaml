@@ -1,0 +1,16 @@
+id: 459
+legacyId: 56a456b5ef3c8213c800cce8
+text: "水\U00020CA5讲蜀身汗。"
+annotations:
+- explanation: （泡在）水里。
+  indices: [0, 1]
+  text: "水\U00020CA5"
+- explanation: 处所助词，本字“里”。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 一身。
+  indices: [3, 4]
+  text: 蜀身
+audioIds: [3504b6f8-eefd-4211-8219-10b56d730727]
+tags: [惯用语]
+sourceId: 1

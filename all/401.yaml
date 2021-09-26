@@ -1,0 +1,10 @@
+id: 401
+legacyId: 56a456b5ef3c8213c800cc74
+text: 三叔公，拉长屎。
+annotations:
+- explanation: 拉屎的时间长。
+  indices: [4, 5, 6]
+  text: 拉长屎
+audioIds: [b830e281-b86a-4437-898b-fc022dae7352]
+tags: [惯用语]
+sourceId: 1

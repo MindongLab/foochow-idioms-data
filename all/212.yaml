@@ -1,0 +1,13 @@
+id: 212
+legacyId: 56a456b4ef3c8213c800caf5
+text: 家私全，功夫半。
+annotations:
+- explanation: 工具。
+  indices: [0, 1]
+  text: 家私
+- explanation: 指手艺技能。
+  indices: [4, 5]
+  text: 功夫
+audioIds: [3eb1a57e-1c32-495c-bc96-f25667d579d3]
+tags: [劳动生产, 谚语]
+sourceId: 1

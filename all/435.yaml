@@ -1,0 +1,31 @@
+id: 435
+legacyId: 56a456b5ef3c8213c800ccb8
+text: "蜀症伓八，掏\U00029A4D\U00020CA5摸脉。"
+annotations:
+- explanation: 一窍不通，什么都不懂。
+  indices: [0, 1, 2, 3]
+  text: 蜀症伓八
+- explanation: 一。
+  indices: [0]
+  text: 蜀
+- explanation: 病症，语义双关指“技能”。
+  indices: [1]
+  text: 症
+- explanation: 懂，知道。
+  indices: [3]
+  text: 八
+- explanation: 拿，拿到。
+  indices: [5]
+  text: 掏
+- explanation: 背上。
+  indices: [6, 7]
+  text: "\U00029A4D\U00020CA5"
+- explanation: 处所助词，本字“里”。
+  indices: [7]
+  text: "\U00020CA5"
+- explanation: 号脉诊病。
+  indices: [8, 9]
+  text: 摸脉
+audioIds: [a16e03fc-8f09-441f-b28a-dcbecf25855b]
+tags: [惯用语]
+sourceId: 1

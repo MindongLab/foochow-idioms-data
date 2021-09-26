@@ -1,0 +1,17 @@
+id: 145
+legacyId: 56a456b3ef3c8213c800ca6c
+text: "无好大，害\U00020CA5细。"
+annotations:
+- explanation: 品行不好的长辈。
+  indices: [0, 1, 2]
+  text: 无好大
+- explanation: 动态助词；了。
+  indices: [5]
+  text: "\U00020CA5"
+- explanation: 幼小，此处指晚辈。
+  indices: [6]
+  text: 细
+audioIds: [d50377d6-e629-4a11-86cb-2a3ff03e6bb6]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 52

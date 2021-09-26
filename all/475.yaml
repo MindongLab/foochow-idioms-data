@@ -1,0 +1,16 @@
+id: 475
+legacyId: 56a456b5ef3c8213c800cd08
+text: 两耳鼎羁草鞋鼻。
+annotations:
+- explanation: 双耳铁锅。
+  indices: [0, 1, 2]
+  text: 两耳鼎
+- explanation: 系。
+  indices: [3]
+  text: 羁
+- explanation: 草鞋前端 翘起的部分，这里代指草鞋。
+  indices: [4, 5, 6]
+  text: 草鞋鼻
+audioIds: [6f7a93d4-3a53-4f6a-86d0-882a75910705]
+tags: [惯用语]
+sourceId: 1

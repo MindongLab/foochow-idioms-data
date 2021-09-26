@@ -1,0 +1,14 @@
+id: 35
+legacyId: 56a456b3ef3c8213c800c989
+text: 六月防初，七月防半。
+annotations:
+- explanation: 防御。
+  indices: [2]
+  text: 防
+- explanation: 半月，指中旬。
+  indices: [8]
+  text: 半
+audioIds: [eaee48cd-ed65-4d60-92ef-582dc2e48d26]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 23

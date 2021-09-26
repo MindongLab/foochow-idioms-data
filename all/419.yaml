@@ -1,0 +1,25 @@
+id: 419
+legacyId: 56a456b5ef3c8213c800cc98
+text: "斋食完，斋箬贴别侬\U00029A4D\U00020CA5。"
+annotations:
+- explanation: 糯米蒸制的甜馅饼，也是传统的祭鬼神供品。 “斋”字俗写加米字旁。
+  indices: [0]
+  text: 斋
+- explanation: 也叫“锞箬”，一种植物的 叶子，状如竹叶而稍大，有清香，福州人用以蒸年糕或 “斋”。每块“斋”的底部衬一片“斋箬”，食用时揭下。
+  indices: [4, 5]
+  text: 斋箬
+- explanation: 别人。
+  indices: [7, 8]
+  text: 别侬
+- explanation: 背上。
+  indices: [9, 10]
+  text: "\U00029A4D\U00020CA5"
+- explanation: 背部。
+  indices: [9]
+  text: "\U00029A4D"
+- explanation: 处所助词。
+  indices: [10]
+  text: "\U00020CA5"
+audioIds: [060fa5ed-bbce-4003-ae34-9149cf55e860]
+tags: [惯用语]
+sourceId: 1

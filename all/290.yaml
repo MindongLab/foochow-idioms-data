@@ -1,0 +1,10 @@
+id: 290
+legacyId: 56a456b4ef3c8213c800cb94
+text: 看命嘴，犬放屁。
+annotations:
+- explanation: 算命先生的嘴，借代指算命者的胡言乱语。
+  indices: [0, 1, 2]
+  text: 看命嘴
+audioIds: [75a2d181-1b2f-48ee-9ae9-b995881eacd1]
+tags: [众生百相, 谚语]
+sourceId: 1

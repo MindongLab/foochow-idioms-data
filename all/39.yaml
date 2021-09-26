@@ -1,0 +1,14 @@
+id: 39
+legacyId: 56a456b3ef3c8213c800c991
+text: 蜀雷镇九颱。
+annotations:
+- explanation: 福州话“一”。
+  indices: [0]
+  text: 蜀
+- explanation: 指“风颱”，即台风。
+  indices: [4]
+  text: 颱
+audioIds: [99b75ce6-9184-4e56-aeb5-bafde34d4c8f]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 24

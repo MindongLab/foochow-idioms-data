@@ -1,0 +1,16 @@
+id: 466
+legacyId: 56a456b5ef3c8213c800ccf6
+text: 关门拍逷锁，搬厝拍逷姆。
+annotations:
+- explanation: 丢失。
+  indices: [2, 3]
+  text: 拍逷
+- explanation: 搬家。
+  indices: [6, 7]
+  text: 搬厝
+- explanation: 老婆。
+  indices: [10]
+  text: 姆
+audioIds: [ad19b462-981b-462e-b509-3e81628cc2a4]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,22 @@
+id: 371
+legacyId: 56a456b5ef3c8213c800cc38
+text: 无位等侬起，无姆等侬死。
+annotations:
+- explanation: 没有空位。
+  indices: [0, 1]
+  text: 无位
+- explanation: 人。
+  indices: [3]
+  text: 侬
+- explanation: 起身离去。
+  indices: [4]
+  text: 起
+- explanation: 老婆。
+  indices: [7]
+  text: 姆
+- explanation: 等他人死后（娶寡妇）。
+  indices: [8, 9, 10]
+  text: 等侬死
+audioIds: [0e3206ef-1ad8-4c84-884e-f5a0e399da6c]
+tags: [惯用语]
+sourceId: 1

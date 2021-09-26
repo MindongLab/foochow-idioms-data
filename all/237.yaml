@@ -1,0 +1,14 @@
+id: 237
+legacyId: 56a456b4ef3c8213c800cb28
+text: 呼鸡也着蜀把米。
+annotations:
+- explanation: 要，必须。
+  indices: [3]
+  text: 着
+- explanation: 一。
+  indices: [4]
+  text: 蜀
+audioIds: [0c4474cf-d5e0-4ee4-8458-fe15918692c7]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 76

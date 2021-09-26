@@ -1,0 +1,19 @@
+id: 176
+legacyId: 56a456b3ef3c8213c800caab
+text: 丈奶疼伲婿，酒瓶搭搭盖。
+annotations:
+- explanation: 岳母。按连读变调逆推，本字可能是“长奶”。
+  indices: [0, 1]
+  text: 丈奶
+- explanation: 女婿。
+  indices: [3, 4]
+  text: 伲婿
+- explanation: 斟酒的锡壶。
+  indices: [6, 7]
+  text: 酒瓶
+- explanation: （盛酒）满到壶盖。
+  indices: [8, 9, 10]
+  text: 搭搭盖
+audioIds: [2fce9174-3d72-42a6-ac1d-0f0108665de0]
+tags: [亲戚关系, 谚语]
+sourceId: 1

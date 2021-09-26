@@ -1,0 +1,17 @@
+id: 113
+legacyId: 56a456b3ef3c8213c800ca2a
+text: 乞食伓过烂柴桥。
+annotations:
+- explanation: 乞丐。
+  indices: [0, 1]
+  text: 乞食
+- explanation: 不，不愿。
+  indices: [2]
+  text: 伓
+- explanation: 木桥。
+  indices: [5, 6]
+  text: 柴桥
+audioIds: [478d1cdf-fd99-4ccd-987c-386bae4fa6af]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 44

@@ -1,0 +1,17 @@
+id: 149
+legacyId: 56a456b3ef3c8213c800ca74
+text: 歪奶做鞋歪囝颂。
+annotations:
+- explanation: 母亲。
+  indices: [1]
+  text: 奶
+- explanation: 儿子。
+  indices: [5]
+  text: 囝
+- explanation: 穿。
+  indices: [6]
+  text: 颂
+audioIds: [027a2577-a810-430b-a8bf-b6b3afa671e0]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 53

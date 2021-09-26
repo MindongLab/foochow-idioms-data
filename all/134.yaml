@@ -1,0 +1,17 @@
+id: 134
+legacyId: 56a456b3ef3c8213c800ca55
+text: "讨\U00023350着固呆食郑药。"
+annotations:
+- explanation: （找配偶〉找得不对。
+  indices: [0, 1, 2]
+  text: "讨\U00023350着"
+- explanation: 比……还糟 糕。呆：坏；方言音从《广韵》五来切。
+  indices: [3, 4]
+  text: 固呆
+- explanation: 〈音〉错。
+  indices: [6]
+  text: 郑
+audioIds: [2bc66935-d84f-41c1-9d4c-19aacf2073f1]
+tags: [男女婚配, 谚语]
+sourceId: 1
+sourcePageNumber: 49

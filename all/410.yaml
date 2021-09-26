@@ -1,0 +1,13 @@
+id: 410
+legacyId: 56a456b5ef3c8213c800cc86
+text: 锣掼过山拍。
+annotations:
+- explanation: 提。
+  indices: [1]
+  text: 掼
+- explanation: 隔着山头的远处。
+  indices: [2, 3]
+  text: 过山
+audioIds: [d5334afb-47d4-45a7-a756-05875fb723f6]
+tags: [惯用语]
+sourceId: 1

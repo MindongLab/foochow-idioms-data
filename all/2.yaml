@@ -1,0 +1,11 @@
+id: 2
+legacyId: 56a456b2ef3c8213c800c947
+text: 清明谷雨，寒死老鼠。
+annotations:
+- explanation: 冻死。
+  indices: [5, 6]
+  text: 寒死
+audioIds: [4ea8779c-c69b-47a9-aafd-a024f7ae4faa]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 13

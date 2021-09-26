@@ -1,0 +1,23 @@
+id: 79
+legacyId: 56a456b3ef3c8213c800c9e4
+text: "热\U00025EF5冻粽隔冥芋卵，圆梨扁柿病屎西瓜。"
+annotations:
+- explanation: 本字“糍”，一种甜食，煮熟的汤圆滚上芝麻、豆粉、糖等。
+  indices: [1]
+  text: "\U00025EF5"
+- explanation: 凉。
+  indices: [2]
+  text: 冻
+- explanation: 隔夜。
+  indices: [4, 5]
+  text: 隔冥
+- explanation: 鸡蛋大小的芋头。
+  indices: [6, 7]
+  text: 芋卵
+- explanation: 发育不良的。
+  indices: [13, 14]
+  text: 病屎
+audioIds: [4f36f5e8-4bd0-4960-8d91-a955f47dde05]
+tags: [物产美食, 谚语]
+sourceId: 1
+sourcePageNumber: 34

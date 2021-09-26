@@ -1,0 +1,14 @@
+id: 118
+legacyId: 56a456b3ef3c8213c800ca34
+text: 无禁无忌，做事都是。
+annotations:
+- explanation: 什么禁忌都不理睬。
+  indices: [0, 1, 2, 3]
+  text: 无禁无忌
+- explanation: 都对。
+  indices: [7, 8]
+  text: 都是
+audioIds: [a8b3e7b7-1aba-438e-b283-8e0b257a1055]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 45

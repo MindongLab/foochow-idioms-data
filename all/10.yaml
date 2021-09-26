@@ -1,0 +1,11 @@
+id: 10
+legacyId: 56a456b2ef3c8213c800c957
+text: 夏至日出火。
+annotations:
+- explanation: 形容夏日炎炎。
+  indices: [2, 3, 4]
+  text: 日出火
+audioIds: [33bdeef8-8a13-4296-8a93-dfa794ffd3d1]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 15

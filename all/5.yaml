@@ -1,0 +1,17 @@
+id: 5
+legacyId: 56a456b2ef3c8213c800c94d
+text: 冬节是月头，棉被压铺头。
+annotations:
+- explanation: 即“冬至日”，是福州的传统节日，这一天福州家家户户用糯米粉团制作“罱”（糍）。
+  indices: [0, 1]
+  text: 冬节
+- explanation: 月初。
+  indices: [3, 4]
+  text: 月头
+- explanation: 棉被盖过头，形容极冷之意。“压”写同义字。
+  indices: [6, 7, 8, 9, 10]
+  text: 棉被压铺头
+audioIds: [2ae5b3ac-0408-4028-a9a0-5b642a219a56]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 14

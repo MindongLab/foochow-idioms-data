@@ -1,0 +1,16 @@
+id: 302
+legacyId: 56a456b4ef3c8213c800cbac
+text: 骹肚像竹筒，伓死也害侬。
+annotations:
+- explanation: 小腿肚。
+  indices: [0, 1]
+  text: 骹肚
+- explanation: 若不……则要……
+  indices: [6, 8]
+  text: 伓……也……
+- explanation: 人，别人。
+  indices: [10]
+  text: 侬
+audioIds: [bda5a558-c469-4a6c-a6f6-2ad774dbb09b]
+tags: [众生百相, 谚语]
+sourceId: 1

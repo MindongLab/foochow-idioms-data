@@ -1,0 +1,17 @@
+id: 486
+legacyId: 56a456b5ef3c8213c800cd20
+text: 鸡母扒粪扫——无事讨事做。
+annotations:
+- explanation: 母鸡。
+  indices: [0, 1]
+  text: 鸡母
+- explanation: 垃圾。
+  indices: [3, 4]
+  text: 粪扫
+- explanation: 找。
+  indices: [9]
+  text: 讨
+audioIds: [2cb13d6d-d8a3-44d8-b9fa-27ba887cb478]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 137

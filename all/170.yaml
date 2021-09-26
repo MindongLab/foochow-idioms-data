@@ -1,0 +1,20 @@
+id: 170
+legacyId: 56a456b3ef3c8213c800ca9e
+text: "讨\U00020CA5新妇去\U00020CA5囝。"
+annotations:
+- explanation: 动态助词，相当于“了”。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 儿媳。
+  indices: [2, 3]
+  text: 新妇
+- explanation: 失去。
+  indices: [4]
+  text: 去
+- explanation: 儿子。
+  indices: [6]
+  text: 囝
+audioIds: [465d3dd0-3a40-4be6-afc8-e2d66a00203b]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 59

@@ -1,0 +1,16 @@
+id: 211
+legacyId: 56a456b4ef3c8213c800caf2
+text: "生\U00020CA5无积掌，死咯害保长。"
+annotations:
+- explanation: 活着。
+  indices: [0, 1]
+  text: "生\U00020CA5"
+- explanation: 积攒。“掌”可能就是“攒”字的讹读。③
+  indices: [3, 4]
+  text: 积掌
+- explanation: 动态助词；了。
+  indices: [7]
+  text: 咯
+audioIds: [b1cc5c2f-5704-46ff-b5d8-6eba5dee72f7]
+tags: [钱财生计, 谚语]
+sourceId: 1

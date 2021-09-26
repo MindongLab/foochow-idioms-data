@@ -1,0 +1,13 @@
+id: 283
+legacyId: 56a456b4ef3c8213c800cb86
+text: 老爹老爹，破布之遮遮。
+annotations:
+- explanation: 老爷，特指官吏。
+  indices: [0, 1]
+  text: 老爹
+- explanation: 动词“遮”的反复貌衍音变型，意思相当于“左遮右遮”、“遮来遮去”。
+  indices: [7, 8, 9]
+  text: 之遮遮
+audioIds: [7f83bf08-4946-47c2-a268-4c70615531c1]
+tags: [众生百相, 谚语]
+sourceId: 1

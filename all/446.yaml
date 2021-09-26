@@ -1,0 +1,16 @@
+id: 446
+legacyId: 56a456b5ef3c8213c800ccce
+text: 细姑教兄嫂断脐。
+annotations:
+- explanation: 小姑，此处特指未出嫁的小姑。
+  indices: [0, 1]
+  text: 细姑
+- explanation: 嫂嫂。
+  indices: [3, 4]
+  text: 兄嫂
+- explanation: 指分娩时剪断脐带。
+  indices: [5, 6]
+  text: 断脐
+audioIds: [e1b68d42-f255-46cf-9760-ce6f45795760]
+tags: [惯用语]
+sourceId: 1

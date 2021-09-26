@@ -1,0 +1,26 @@
+id: 498
+legacyId: 56a456b5ef3c8213c800cd38
+text: "乞食婆走反——跟\U00020CA5染染嘈。"
+annotations:
+- explanation: 女丐。
+  indices: [0, 1, 2]
+  text: 乞食婆
+- explanation: 逃避战乱。
+  indices: [3, 4]
+  text: 走反
+- explanation: 动态助词；着。
+  indices: [8]
+  text: "\U00020CA5"
+- explanation: 凑热闹。
+  indices: [9, 10, 11]
+  text: 染染嘈
+- explanation: 〈白读音〉混杂。
+  indices: [9]
+  text: 染
+- explanation: 〈白读音〉嘈杂。
+  indices: [11]
+  text: 嘈
+audioIds: [b827add3-2ba8-44fa-8f6f-214d39ebd40b]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 140

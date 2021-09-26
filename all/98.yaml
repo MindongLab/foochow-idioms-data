@@ -1,0 +1,17 @@
+id: 98
+legacyId: 56a456b3ef3c8213c800ca0b
+text: 桃囝李囝，食死伲囝。
+annotations:
+- explanation: 小桃儿小李儿。囝：小称名词后辍。
+  indices: [0, 1, 2, 3]
+  text: 桃囝李囝
+- explanation: 带宾语的述补结构。“死”指后果严重。
+  indices: [5, 6]
+  text: 食死
+- explanation: 小孩。
+  indices: [7, 8]
+  text: 伲囝
+audioIds: [28db8fe7-22f0-4856-af8a-4766117b71d9]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 40

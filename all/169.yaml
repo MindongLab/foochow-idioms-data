@@ -1,0 +1,20 @@
+id: 169
+legacyId: 56a456b3ef3c8213c800ca9c
+text: 牛着使钱买，囝着破腹生。
+annotations:
+- explanation: 要，必须。
+  indices: [1]
+  text: 着
+- explanation: 用。
+  indices: [2]
+  text: 使
+- explanation: 儿子。
+  indices: [6]
+  text: 囝
+- explanation: 亲生。
+  indices: [8, 9, 10]
+  text: 破腹生
+audioIds: [92706ce8-eec9-4801-8efa-24903ebd5ccf]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 58

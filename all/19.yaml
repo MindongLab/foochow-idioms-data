@@ -1,0 +1,17 @@
+id: 19
+legacyId: 56a456b3ef3c8213c800c969
+text: 火烟缠厝雨就遘。
+annotations:
+- explanation: 烟气。
+  indices: [0, 1]
+  text: 火烟
+- explanation: 房子。
+  indices: [3]
+  text: 厝
+- explanation: 到的意思。
+  indices: []
+  text: ''
+audioIds: [874ba5f9-f68b-4cb2-9204-e7b0e991f979]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 18

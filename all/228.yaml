@@ -1,0 +1,14 @@
+id: 228
+legacyId: 56a456b4ef3c8213c800cb16
+text: 亲帮亲，邻帮邻，细桌帮度绳。
+annotations:
+- explanation: 制作家具的木匠。
+  indices: [8, 9]
+  text: 细桌
+- explanation: 原指墨斗线，引申指建筑房屋的木匠。
+  indices: [11, 12]
+  text: 度绳
+audioIds: [ec2081e1-cbb6-456b-85a7-00bb278fb63d]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 73

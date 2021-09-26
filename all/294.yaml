@@ -1,0 +1,25 @@
+id: 294
+legacyId: 56a456b4ef3c8213c800cb9c
+text: 面囝白澈澈，呆事做固搭。
+annotations:
+- explanation: 脸蛋。
+  indices: [0, 1]
+  text: 面囝
+- explanation: 白白净净。
+  indices: [2, 3, 4]
+  text: 白澈澈
+- explanation: 坏事。
+  indices: [6, 7]
+  text: 呆事
+- explanation: 更。
+  indices: [9]
+  text: 固
+- explanation: 到顶，到家。
+  indices: [10]
+  text: 搭
+- explanation: 更甚。
+  indices: [9, 10]
+  text: 固搭
+audioIds: [3a96d9f9-a6f3-48af-9f1b-93c6ca9a5d10]
+tags: [众生百相, 谚语]
+sourceId: 1

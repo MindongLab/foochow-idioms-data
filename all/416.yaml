@@ -1,0 +1,25 @@
+id: 416
+legacyId: 56a456b5ef3c8213c800cc92
+text: "痒\U00020CA5伓扒，掏疼\U00020CA5去挖。"
+annotations:
+- explanation: 身上发痒的地方。
+  indices: [0, 1]
+  text: "痒\U00020CA5"
+- explanation: 处所助词，本字“里”。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 搔（痒）。
+  indices: [3]
+  text: 扒
+- explanation: 拿，拿到。
+  indices: [5]
+  text: 掏
+- explanation: 疼痛的地方。
+  indices: [6, 7]
+  text: "疼\U00020CA5"
+- explanation: 抠抓。本字“艺”，《广韵》：“手艺为穴，乌八切。”
+  indices: [9]
+  text: 挖
+audioIds: [27031348-e8bf-44df-896e-010bc4e64214]
+tags: [惯用语]
+sourceId: 1

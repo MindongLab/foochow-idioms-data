@@ -1,0 +1,13 @@
+id: 348
+legacyId: 56a456b4ef3c8213c800cc0a
+text: 眚盲猫搦着死老鼠。
+annotations:
+- explanation: 瞎。
+  indices: [0, 1]
+  text: 眚盲
+- explanation: 捉到。
+  indices: [3, 4]
+  text: 搦着
+audioIds: [1c7c2a59-e98e-4ee7-b2e0-7ac9ec990910]
+tags: [惯用语]
+sourceId: 1

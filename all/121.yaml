@@ -1,0 +1,17 @@
+id: 121
+legacyId: 56a456b3ef3c8213c800ca3a
+text: 食酒凭间壁桌。
+annotations:
+- explanation: 指参加酒宴。
+  indices: [0, 1]
+  text: 食酒
+- explanation: 按照······做。
+  indices: [2]
+  text: 凭
+- explanation: 邻桌。
+  indices: [3, 4, 5]
+  text: 间壁桌
+audioIds: [129ff44f-87af-4019-815a-20b25d8510b4]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 45

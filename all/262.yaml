@@ -1,0 +1,13 @@
+id: 262
+legacyId: 56a456b4ef3c8213c800cb5b
+text: 猪母肉卖乡里。
+annotations:
+- explanation: 母猪。
+  indices: [0, 1]
+  text: 猪母
+- explanation: 街坊。
+  indices: [4, 5]
+  text: 乡里
+audioIds: [c321b52f-ce15-4eab-87fe-a2df1035fd18]
+tags: [世道清浊, 谚语]
+sourceId: 1

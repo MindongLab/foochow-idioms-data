@@ -1,0 +1,14 @@
+id: 155
+legacyId: 56a456b3ef3c8213c800ca80
+text: 鸡上斤，囝上十。
+annotations:
+- explanation: 达到或超过。
+  indices: [1]
+  text: 上
+- explanation: 儿子。
+  indices: [4]
+  text: 囝
+audioIds: [3097aa89-c4f6-43fc-a2c9-b88bc5c271e5]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 54

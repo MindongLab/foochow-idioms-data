@@ -1,0 +1,13 @@
+id: 305
+legacyId: 56a456b4ef3c8213c800cbb3
+text: 十隻掌指都有长短。
+annotations:
+- explanation: 手指头。
+  indices: [2, 3]
+  text: 掌指
+- explanation: 有长有短。“短”写同义字。
+  indices: [5, 6, 7]
+  text: 有长短
+audioIds: [2a2e0df9-d1ff-477f-a732-579c95748148]
+tags: [谐喻事理, 谚语]
+sourceId: 1

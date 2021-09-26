@@ -1,0 +1,10 @@
+id: 433
+legacyId: 56a456b5ef3c8213c800ccb4
+text: “一”字未划起。
+annotations:
+- explanation: 还没开始划。
+  indices: [4, 5, 6]
+  text: 未划起
+audioIds: [b6ac79d1-e529-48eb-8658-198aace47415]
+tags: [惯用语]
+sourceId: 1

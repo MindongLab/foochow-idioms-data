@@ -1,0 +1,14 @@
+id: 230
+legacyId: 56a456b4ef3c8213c800cb1a
+text: 金厝边，银乡里。
+annotations:
+- explanation: 邻居。
+  indices: [1, 2]
+  text: 厝边
+- explanation: 街坊。
+  indices: [5, 6]
+  text: 乡里
+audioIds: [27e99b6e-0919-4d1b-9834-85c2fb246c05]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 74

@@ -1,0 +1,14 @@
+id: 117
+legacyId: 56a456b3ef3c8213c800ca32
+text: 有鸡有鸡米，有囝有囝粮。
+annotations:
+- explanation: 喂鸡的米。
+  indices: [3, 4]
+  text: 鸡米
+- explanation: 孩子的口粮。
+  indices: [9, 10]
+  text: 囝粮
+audioIds: [088ce8eb-4cd9-48d1-b599-93c76f0e3dc1]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 44

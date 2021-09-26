@@ -1,0 +1,17 @@
+id: 70
+legacyId: 56a456b3ef3c8213c800c9d2
+text: "春鳗冬带夏白力，好食当\U00023350戴。"
+annotations:
+- explanation: 冬季的带鱼。
+  indices: [2, 3]
+  text: 冬带
+- explanation: 好吃，味道鲜美。
+  indices: [8, 9]
+  text: 好食
+- explanation: 受不了，此处指令人垂涎。
+  indices: [10, 11, 12]
+  text: "当\U00023350戴"
+audioIds: [f6e2debd-4c1c-488c-b552-bab9ae73a3d2]
+tags: [物产美食, 谚语]
+sourceId: 1
+sourcePageNumber: 32

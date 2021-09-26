@@ -1,0 +1,17 @@
+id: 235
+legacyId: 56a456b4ef3c8213c800cb24
+text: 无贪鸡肝胗，会去洗鸡橱？
+annotations:
+- explanation: 不贪图（人家的）鸡肝和鸡胗。
+  indices: [0, 1, 2, 3, 4]
+  text: 无贪鸡肝胗
+- explanation: 可能。
+  indices: [6]
+  text: 会
+- explanation: 养鸡的笼子。
+  indices: [9, 10]
+  text: 鸡橱
+audioIds: [9f84e1e5-8a14-4d57-8636-aea0b55653d2]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 75

@@ -1,0 +1,16 @@
+id: 289
+legacyId: 56a456b4ef3c8213c800cb92
+text: 看命先生半墿死，地理先生无对埋。
+annotations:
+- explanation: 横死途中。
+  indices: [4, 5, 6]
+  text: 半墿死
+- explanation: 看风水的迷信职业者。
+  indices: [8, 9, 10, 11]
+  text: 地理先生
+- explanation: 无处，“对”写同音字。
+  indices: [12, 13]
+  text: 无对
+audioIds: [6e263fba-55d1-4de0-992f-ef69e951606e]
+tags: [众生百相, 谚语]
+sourceId: 1

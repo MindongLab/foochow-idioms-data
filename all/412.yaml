@@ -1,0 +1,16 @@
+id: 412
+legacyId: 56a456b5ef3c8213c800cc8a
+text: "算盘挂心间\U00020CA5拍。"
+annotations:
+- explanation: 胸脯。
+  indices: [3, 4]
+  text: 心间
+- explanation: 处所助词，本字“里”。
+  indices: [5]
+  text: "\U00020CA5"
+- explanation: 打，拨打（算盘）。
+  indices: [6]
+  text: 拍
+audioIds: [fc13ac3e-d862-4f37-9224-b1b49fcbca17]
+tags: [惯用语]
+sourceId: 1

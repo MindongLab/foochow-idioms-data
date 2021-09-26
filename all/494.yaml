@@ -1,0 +1,17 @@
+id: 494
+legacyId: 56a456b5ef3c8213c800cd30
+text: 招姐做新妇——懵懵眩。
+annotations:
+- explanation: 福州民间故事中的喜剧型人物。
+  indices: [0, 1]
+  text: 招姐
+- explanation: 出嫁，当新娘。
+  indices: [2, 3, 4]
+  text: 做新妇
+- explanation: 慌张忙乱。
+  indices: [7, 8, 9]
+  text: 懵懵眩
+audioIds: [fcc611b7-4bd5-4bf5-94fd-7a1e6d83e2e2]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 139

@@ -1,0 +1,13 @@
+id: 396
+legacyId: 56a456b5ef3c8213c800cc6a
+text: 暴乍梅香做夫人。
+annotations:
+- explanation: 破天荒第一次，刚刚。
+  indices: [0, 1]
+  text: 暴乍
+- explanation: 婢女的常用名，借代指婢女。
+  indices: [2, 3]
+  text: 梅香
+audioIds: [50c3cb1f-7522-4960-a8a7-efde5c66c349]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,20 @@
+id: 24
+legacyId: 56a456b3ef3c8213c800c973
+text: 快霉四月八，晏霉五月节。
+annotations:
+- explanation: 即霉雨季来得早。
+  indices: [0, 1]
+  text: 快霉
+- explanation: 即农历四月初八，传统的浴佛节。
+  indices: [2, 3, 4]
+  text: 四月八
+- explanation: 霉雨季来得晚。
+  indices: [6, 7]
+  text: 晏霉
+- explanation: 即端午节。福州也和各地一样在这一天包粽子，赛龙舟。
+  indices: [8, 9, 10]
+  text: 五月节
+audioIds: [f6b164b4-e2ac-4e7f-811b-95cce1d9db56]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 20

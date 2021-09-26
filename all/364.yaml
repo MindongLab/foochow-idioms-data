@@ -1,0 +1,19 @@
+id: 364
+legacyId: 56a456b5ef3c8213c800cc2a
+text: 无刣犬就八犬腹肠。
+annotations:
+- explanation: 没有。
+  indices: [0]
+  text: 无
+- explanation: 〈方言俗字〉宰杀；本字“治”。
+  indices: [1]
+  text: 刣
+- explanation: 知道。
+  indices: [4]
+  text: 八
+- explanation: 肚肠。
+  indices: [6, 7]
+  text: 腹肠
+audioIds: [e8f149b6-6b15-4e83-ad46-ad4533f093f6]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,13 @@
+id: 373
+legacyId: 56a456b5ef3c8213c800cc3c
+text: 猪刣白讲价。
+annotations:
+- explanation: 宰杀牲畜并褪毛去内脏。
+  indices: [1, 2]
+  text: 刣白
+- explanation: 〈方言俗字〉宰杀。
+  indices: [1]
+  text: 刣
+audioIds: [a94a8c0a-ed79-4555-85ab-295e14afef17]
+tags: [惯用语]
+sourceId: 1

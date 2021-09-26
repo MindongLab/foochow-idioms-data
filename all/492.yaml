@@ -1,0 +1,17 @@
+id: 492
+legacyId: 56a456b5ef3c8213c800cd2c
+text: 曲蹄颂靴——颟掰。
+annotations:
+- explanation: 旧称水居的船民。
+  indices: [0, 1]
+  text: 曲蹄
+- explanation: 穿。
+  indices: [2]
+  text: 颂
+- explanation: 指身体受到束缚而行动不便的难受感觉。
+  indices: [6, 7]
+  text: 颟掰
+audioIds: [4c2ebfa7-2006-4e68-87ed-fc80ed6ca72a]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 139

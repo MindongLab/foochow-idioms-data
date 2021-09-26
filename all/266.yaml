@@ -1,0 +1,16 @@
+id: 266
+legacyId: 56a456b4ef3c8213c800cb63
+text: 坐轿是侬，扛轿也是侬。
+annotations:
+- explanation: 坐轿子的。
+  indices: [0, 1]
+  text: 坐轿
+- explanation: 人。
+  indices: [3]
+  text: 侬
+- explanation: 抬轿子的，轿夫。
+  indices: []
+  text: ''
+audioIds: [cc0e3673-5be5-4554-9a36-2d67c0a417e9]
+tags: [世道清浊, 谚语]
+sourceId: 1

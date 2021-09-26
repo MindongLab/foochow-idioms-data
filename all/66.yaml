@@ -1,0 +1,14 @@
+id: 66
+legacyId: 56a456b3ef3c8213c800c9c9
+text: "抱其猫，\U00023350衔鼠。"
+annotations:
+- explanation: 抱来的，指借来的。
+  indices: [0, 1]
+  text: 抱其
+- explanation: 不捉老鼠。
+  indices: [4, 5, 6]
+  text: "\U00023350衔鼠"
+audioIds: [b20eb58b-8edd-42d0-9722-d90f59a5a875]
+tags: [猫犬蛇鼠, 谚语]
+sourceId: 1
+sourcePageNumber: 31

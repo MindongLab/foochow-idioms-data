@@ -1,0 +1,13 @@
+id: 202
+legacyId: 56a456b4ef3c8213c800cae0
+text: 金银成堆山，不如蜀扁担。
+annotations:
+- explanation: 形容很多。
+  indices: [2, 3, 4]
+  text: 成堆山
+- explanation: 一。
+  indices: [8]
+  text: 蜀
+audioIds: [e16b1a5f-20ca-4fa9-b549-24f76776cef7]
+tags: [钱财生计, 谚语]
+sourceId: 1

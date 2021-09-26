@@ -1,0 +1,10 @@
+id: 337
+legacyId: 56a456b4ef3c8213c800cbf4
+text: 半斤黄瓜四两嘴。
+annotations:
+- explanation: 指大黄鱼。
+  indices: [2, 3]
+  text: 黄瓜
+audioIds: [59cd5b05-9620-49b6-8669-fb4a241fd093]
+tags: [惯用语]
+sourceId: 1

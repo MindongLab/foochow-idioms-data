@@ -1,0 +1,11 @@
+id: 112
+legacyId: 56a456b3ef3c8213c800ca28
+text: "皇帝有钱，\U00023350买万万岁。"
+annotations:
+- explanation: 买不到。
+  indices: [5, 6]
+  text: "\U00023350买"
+audioIds: [c9138ea4-19fc-46b1-b7ed-006acbe2c637]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 43

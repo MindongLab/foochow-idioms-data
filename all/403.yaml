@@ -1,0 +1,13 @@
+id: 403
+legacyId: 56a456b5ef3c8213c800cc78
+text: 伓像菜头伓像芋。
+annotations:
+- explanation: 不像。
+  indices: [0, 1]
+  text: 伓像
+- explanation: 萝卜。
+  indices: [2, 3]
+  text: 菜头
+audioIds: [19a94187-2370-4128-9c2e-b39bd56d0076]
+tags: [惯用语]
+sourceId: 1

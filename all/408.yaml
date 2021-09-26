@@ -1,0 +1,16 @@
+id: 408
+legacyId: 56a456b5ef3c8213c800cc82
+text: 有风飑起就有梨囝拾。
+annotations:
+- explanation: 台风。
+  indices: [1, 2]
+  text: 风飑
+- explanation: 发生。
+  indices: [3]
+  text: 起
+- explanation: 小梨儿。
+  indices: [6, 7]
+  text: 梨囝
+audioIds: [051af94d-cdde-4d6d-8ce4-b22ab0aefe45]
+tags: [惯用语]
+sourceId: 1

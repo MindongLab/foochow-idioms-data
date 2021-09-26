@@ -1,0 +1,17 @@
+id: 29
+legacyId: 56a456b3ef3c8213c800c97d
+text: 东眨一，西眨七，南眨笊笊流，北眨无蜀滴。
+annotations:
+- explanation: 此处指打闪电。
+  indices: [1]
+  text: 眨
+- explanation: 如笊篱漏雨般流水。
+  indices: [10, 11, 12]
+  text: 笊笊流
+- explanation: 没有一滴雨。
+  indices: [16, 17, 18]
+  text: 无蜀滴
+audioIds: [6b488b84-d810-4fdd-9821-8f2da959057c]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 21

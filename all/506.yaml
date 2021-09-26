@@ -1,0 +1,17 @@
+id: 506
+legacyId: 56a456b5ef3c8213c800cd49
+text: 蜀把米摔壁——无蜀粒夹粒。
+annotations:
+- explanation: 一。
+  indices: [0]
+  text: 蜀
+- explanation: 摔向墙壁。
+  indices: [3, 4]
+  text: 摔壁
+- explanation: 没有一点儿关系。“夹粒”的字面意思是粘在墙上的米粒，同音词指“关系”，本字不明。
+  indices: [7, 8, 9, 10, 11]
+  text: 无蜀粒夹粒
+audioIds: [cbba85a1-032a-41af-a06d-6eddc0196abb]
+tags: [歇后语, 双关类]
+sourceId: 1
+sourcePageNumber: 142

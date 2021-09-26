@@ -1,0 +1,11 @@
+id: 7
+legacyId: 56a456b2ef3c8213c800c951
+text: 冬节是月尾，收起犁耙去烘火。
+annotations:
+- explanation: 月底的意思。
+  indices: [3, 4]
+  text: 月尾
+audioIds: [c9d7fb78-2621-4e0a-ae2d-8bd00b8b7bdb]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 15

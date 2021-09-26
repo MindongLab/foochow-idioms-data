@@ -1,0 +1,10 @@
+id: 385
+legacyId: 56a456b5ef3c8213c800cc54
+text: 罗汉请观音。
+annotations:
+- explanation: 注意“音”字声母特殊，应是“观世音”的合音变化结果。
+  indices: [3, 4]
+  text: 观音
+audioIds: [b24eb314-84f0-42ef-aa45-58f8576bb6ce]
+tags: [惯用语]
+sourceId: 1

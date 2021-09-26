@@ -1,0 +1,19 @@
+id: 199
+legacyId: 56a456b4ef3c8213c800cada
+text: "拾\U00020CA5缚腿带，家伙去蜀堂。"
+annotations:
+- explanation: 动态助词；了。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 绑腿的绳线。
+  indices: [2, 3, 4]
+  text: 缚腿带
+- explanation: 家产。
+  indices: [6, 7]
+  text: 家伙
+- explanation: 一套（家具等）
+  indices: [9, 10]
+  text: 蜀堂
+audioIds: [b1cef040-884c-4b0f-b15f-899908f07927]
+tags: [钱财生计, 谚语]
+sourceId: 1

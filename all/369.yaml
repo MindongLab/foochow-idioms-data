@@ -1,0 +1,16 @@
+id: 369
+legacyId: 56a456b5ef3c8213c800cc34
+text: 雷公睏落眠。
+annotations:
+- explanation: 雷神，传说中的惩恶之神。
+  indices: [0, 1]
+  text: 雷公
+- explanation: 睡熟了。
+  indices: [2, 3, 4]
+  text: 睏落眠
+- explanation: 睡。
+  indices: [2]
+  text: 睏
+audioIds: [a583c62d-4d33-4d76-a0a6-cace9b6f8c2f]
+tags: [惯用语]
+sourceId: 1

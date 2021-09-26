@@ -1,0 +1,16 @@
+id: 271
+legacyId: 56a456b4ef3c8213c800cb6d
+text: 五帝惊呆侬。
+annotations:
+- explanation: 福州民间信仰的瘟神，有张、钟、 刘、史、赵五位，合称五帝，神像形貌丑恶。
+  indices: [0, 1]
+  text: 五帝
+- explanation: 害怕。
+  indices: [2]
+  text: 惊
+- explanation: 坏人。
+  indices: [3, 4]
+  text: 呆侬
+audioIds: [dd96c8f4-021f-4c8f-915f-1e18891921c6]
+tags: [世道清浊, 谚语]
+sourceId: 1

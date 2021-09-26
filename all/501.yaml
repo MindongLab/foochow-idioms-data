@@ -1,0 +1,17 @@
+id: 501
+legacyId: 56a456b5ef3c8213c800cd3e
+text: 食信老鼠——七处跃。
+annotations:
+- explanation: 火药。
+  indices: [1]
+  text: 信
+- explanation: 到处。
+  indices: [6, 7]
+  text: 七处
+- explanation: 〈白读音〉奔跑跳跃。
+  indices: [8]
+  text: 跃
+audioIds: [bfc6275f-fe7b-4f27-8396-f452159890c3]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 141

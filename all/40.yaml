@@ -1,0 +1,14 @@
+id: 40
+legacyId: 56a456b3ef3c8213c800c993
+text: 南风发暴，鲜鱼无对倒。
+annotations:
+- explanation: 刮北风。“发”读特殊口语音，俗写近音的“勃”字。
+  indices: [2, 3]
+  text: 发暴
+- explanation: （捕到的鲜鱼多得）没地方倒。“对”指地方，处所。
+  indices: [7, 8, 9]
+  text: 无对倒
+audioIds: [d4cd0e37-1884-4f76-b886-7f5329449fd8]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 24

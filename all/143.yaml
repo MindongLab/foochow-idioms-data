@@ -1,0 +1,14 @@
+id: 143
+legacyId: 56a456b3ef3c8213c800ca68
+text: 容猫上灶，容囝不孝。
+annotations:
+- explanation: 一味宠爱，不加管束。
+  indices: [0]
+  text: 容
+- explanation: 儿子，此处泛指子女。
+  indices: [6]
+  text: 囝
+audioIds: [290488f0-058d-4571-8629-cabe8ff82487]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 51

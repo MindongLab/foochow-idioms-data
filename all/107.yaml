@@ -1,0 +1,14 @@
+id: 107
+legacyId: 56a456b3ef3c8213c800ca1d
+text: 六十莫留冥，七十莫留昼。
+annotations:
+- explanation: 莫留冥：不留过夜。
+  indices: [2, 3, 4]
+  text: 莫留冥
+- explanation: 午、午饭。
+  indices: [10]
+  text: 昼
+audioIds: [f943051f-c6b7-4cef-83e8-cbd72f996be1]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 42

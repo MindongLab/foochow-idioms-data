@@ -1,0 +1,14 @@
+id: 43
+legacyId: 56a456b3ef3c8213c800c99a
+text: 冬节冥，夏至日。
+annotations:
+- explanation: 即冬至日，福州传统节日之一。
+  indices: [0, 1]
+  text: 冬节
+- explanation: “夜”的意思。
+  indices: [2]
+  text: 冥
+audioIds: [ee554559-a428-4c27-89e6-66246c5207ea]
+tags: [日月山川, 谚语]
+sourceId: 1
+sourcePageNumber: 25

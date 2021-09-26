@@ -1,0 +1,16 @@
+id: 323
+legacyId: 56a456b4ef3c8213c800cbd7
+text: "石柜\U00023350八自身臭。"
+annotations:
+- explanation: 〈音〉：即梨蝽象，一种果树害虫，褐色，会飞， 极臭。
+  indices: [0, 1]
+  text: 石柜
+- explanation: 不知道。
+  indices: [2, 3]
+  text: "\U00023350八"
+- explanation: 知道。
+  indices: [3]
+  text: 八
+audioIds: [ea9ce6b8-01a0-4e4a-9d7d-7f14acac3088]
+tags: [谐喻事理, 谚语]
+sourceId: 1

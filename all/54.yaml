@@ -1,0 +1,14 @@
+id: 54
+legacyId: 56a456b3ef3c8213c800c9b0
+text: 井水变甜，地牛转肩。
+annotations:
+- explanation: 形容地震，传说我们的大地是被地牛扛着，转肩是地震的原因。
+  indices: [5, 6, 7, 8]
+  text: 地牛转肩
+- explanation: 挑担子或扛重物时，因担子太重换个肩膀。
+  indices: [7, 8]
+  text: 转肩
+audioIds: [e1abc60d-04d2-4ae0-83c1-b40664e32cee]
+tags: [日月山川, 谚语]
+sourceId: 1
+sourcePageNumber: 28

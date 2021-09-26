@@ -1,0 +1,14 @@
+id: 51
+legacyId: 56a456b3ef3c8213c800c9aa
+text: 初一十五，食昼搭渡。
+annotations:
+- explanation: 吃午饭（的时候）。
+  indices: [5, 6]
+  text: 食昼
+- explanation: 搭乘渡船。
+  indices: [7, 8]
+  text: 搭渡
+audioIds: [39d99b3a-1bca-49ec-b51e-a4c9690fcd74]
+tags: [日月山川, 谚语]
+sourceId: 1
+sourcePageNumber: 27

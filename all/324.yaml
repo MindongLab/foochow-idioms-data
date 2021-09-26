@@ -1,0 +1,13 @@
+id: 324
+legacyId: 56a456b4ef3c8213c800cbd9
+text: 压鸡伓成孵。
+annotations:
+- explanation: 按压。
+  indices: [0]
+  text: 压
+- explanation: 不成。
+  indices: [2, 3]
+  text: 伓成
+audioIds: [8265298c-ba95-4cd5-a6c8-2b914ddc24e4]
+tags: [谐喻事理, 谚语]
+sourceId: 1

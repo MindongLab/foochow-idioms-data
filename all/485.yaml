@@ -1,0 +1,17 @@
+id: 485
+legacyId: 56a456b5ef3c8213c800cd1e
+text: 道士收花彩一一偌夥都会使。
+annotations:
+- explanation: 小费。
+  indices: [3, 4]
+  text: 花彩
+- explanation: 多少。
+  indices: [7, 8]
+  text: 偌夥
+- explanation: 可以。
+  indices: [10, 11]
+  text: 会使
+audioIds: [a9173b6d-c359-4a1a-9b2d-0159f5935ace]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 137

@@ -1,0 +1,19 @@
+id: 420
+legacyId: 56a456b5ef3c8213c800cc9a
+text: 讲食龙过山，讲做会打单。
+annotations:
+- explanation: 说到吃。
+  indices: [0, 1]
+  text: 讲食
+- explanation: 生龙活虎般地来劲。
+  indices: [2, 3, 4]
+  text: 龙过山
+- explanation: 说到干活。
+  indices: [6, 7]
+  text: 讲做
+- explanation: 〈音〉站立不稳，踉跄。
+  indices: [9, 10]
+  text: 打单
+audioIds: [2dc94f7a-87a1-48de-856a-ae2878f3f153]
+tags: [惯用语]
+sourceId: 1

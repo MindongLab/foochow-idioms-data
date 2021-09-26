@@ -1,0 +1,16 @@
+id: 178
+legacyId: 56a456b3ef3c8213c800caaf
+text: 伲婿半爿囝。
+annotations:
+- explanation: 女婿。
+  indices: [0, 1]
+  text: 伲婿
+- explanation: 半个。
+  indices: [2, 3]
+  text: 半爿
+- explanation: 儿子。
+  indices: [4]
+  text: 囝
+audioIds: [befa9e11-f67d-4846-a6e7-9376e57fff3d]
+tags: [亲戚关系, 谚语]
+sourceId: 1

@@ -1,0 +1,13 @@
+id: 379
+legacyId: 56a456b5ef3c8213c800cc48
+text: 命长有奶奶做。
+annotations:
+- explanation: 寿命长，谑谓办事拖拉。
+  indices: [0, 1]
+  text: 命长
+- explanation: 可以指望以年高而获尊荣。
+  indices: [2, 3, 4, 5]
+  text: 有奶奶做
+audioIds: [813b64aa-63ab-4e56-8631-f1cfeda111bc]
+tags: [惯用语]
+sourceId: 1

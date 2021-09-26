@@ -1,0 +1,22 @@
+id: 181
+legacyId: 56a456b4ef3c8213c800cab5
+text: "凊饭放\U00020CA5酸，无疼外甥孙。"
+annotations:
+- explanation: 冷饭，剩饭。
+  indices: [0, 1]
+  text: 凊饭
+- explanation: 搁着让它发馊。
+  indices: [2, 3, 4]
+  text: "放\U00020CA5酸"
+- explanation: 动态助词；着。
+  indices: [3]
+  text: "\U00020CA5"
+- explanation: 不疼爱。
+  indices: [6, 7]
+  text: 无疼
+- explanation: 外孙。
+  indices: [8, 9, 10]
+  text: 外甥孙
+audioIds: [0bbd63a5-4484-4281-bfb4-9ac792f1879e]
+tags: [亲戚关系, 谚语]
+sourceId: 1

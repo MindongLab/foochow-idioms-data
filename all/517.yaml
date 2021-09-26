@@ -1,0 +1,23 @@
+id: 517
+legacyId: 56a456b6ef3c8213c800cd5f
+text: "夫人奶抽签——觕着\U00023350圣（卖线）。"
+annotations:
+- explanation: 即“临水夫人陈靖姑”，福州及闽东一带民间信仰的女神，旧福州有其庙宇多处，庙内有抽签问卜等活动。
+  indices: [0, 1, 2]
+  text: 夫人奶
+- explanation: 碰到。
+  indices: [7, 8]
+  text: 觕着
+- explanation: 〈方言俗字〉遇，碰。
+  indices: [7]
+  text: 觕
+- explanation: 不灵验。
+  indices: [9, 10]
+  text: "\U00023350圣"
+- explanation: "指吆喝卖线的小贩。“卖线”与“\U00023350圣”同音。"
+  indices: [12, 13]
+  text: 卖线
+audioIds: [5171506b-3d74-4599-8b65-7e8617553203]
+tags: [歇后语, 双关类]
+sourceId: 1
+sourcePageNumber: 145

@@ -1,0 +1,19 @@
+id: 354
+legacyId: 56a456b5ef3c8213c800cc16
+text: 蜂王无着厝，蜂囝拍倒厝。
+annotations:
+- explanation: 不在家。
+  indices: [2, 3, 4]
+  text: 无着厝
+- explanation: 动词；在。
+  indices: [3]
+  text: 着
+- explanation: 小蜂，指工蜂等。
+  indices: [6, 7]
+  text: 蜂囝
+- explanation: 闹翻天。
+  indices: [8, 9, 10]
+  text: 拍倒厝
+audioIds: [e2f9ce75-ead5-4065-8894-1982429bb481]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,16 @@
+id: 192
+legacyId: 56a456b4ef3c8213c800cacc
+text: 蜀介钱买针，也着看鼻。
+annotations:
+- explanation: 一个铜板。
+  indices: [0, 1, 2]
+  text: 蜀介钱
+- explanation: 要。
+  indices: [7]
+  text: 着
+- explanation: 指针鼻，即针眼。
+  indices: [9]
+  text: 鼻
+audioIds: [b60e4e21-7835-495a-87bb-1178d9b55b21]
+tags: [钱财生计, 谚语]
+sourceId: 1

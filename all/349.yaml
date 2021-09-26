@@ -1,0 +1,10 @@
+id: 349
+legacyId: 56a456b4ef3c8213c800cc0c
+text: 猪母都戴金耳坠。
+annotations:
+- explanation: 母猪。
+  indices: [0, 1]
+  text: 猪母
+audioIds: [fed7f440-0fc7-46f7-8fe1-5bf0e91a9fc8]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,13 @@
+id: 260
+legacyId: 56a456b4ef3c8213c800cb57
+text: 症做兴化兄。
+annotations:
+- explanation: 设下圈套，诱人上当。
+  indices: [0, 1]
+  text: 症做
+- explanation: 兴化府在福州府南面，今属莆田市。福州人对莆仙口音者谑称“兴化 兄”，也泛指老实的乡下人。
+  indices: [2, 3, 4]
+  text: 兴化兄
+audioIds: [2915f4a8-5def-4636-8458-3adf61594cc5]
+tags: [世道清浊, 谚语]
+sourceId: 1

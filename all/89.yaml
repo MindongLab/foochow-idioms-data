@@ -1,0 +1,17 @@
+id: 89
+legacyId: 56a456b3ef3c8213c800c9f9
+text: 拉渣食，拉渣肥。
+annotations:
+- explanation: 肮脏的意思。
+  indices: [0, 1]
+  text: 拉渣
+- explanation: 吃、饮食。
+  indices: [2]
+  text: 食
+- explanation: 肥胖。
+  indices: [6]
+  text: 肥
+audioIds: [1b454f6f-2873-4c7f-9509-5451ef510bdb]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 37

@@ -1,0 +1,26 @@
+id: 172
+legacyId: 56a456b3ef3c8213c800caa2
+text: 做侬新妇着省配，蜀头虾米咬两嘴。
+annotations:
+- explanation: 做别人家的媳妇。
+  indices: [0, 1, 2, 3]
+  text: 做侬新妇
+- explanation: 要，必须。
+  indices: [4]
+  text: 着
+- explanation: 进餐时少吃菜，反之叫“大配”。
+  indices: [5, 6]
+  text: 省配
+- explanation: 下饭的菜。
+  indices: [6]
+  text: 配
+- explanation: 一只。
+  indices: [8, 9]
+  text: 蜀头
+- explanation: 分两口吃。
+  indices: [12, 13, 14]
+  text: 咬两嘴
+audioIds: [d724b3b0-2df6-443f-8113-3510e406f81d]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 59

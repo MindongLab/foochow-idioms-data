@@ -1,0 +1,16 @@
+id: 313
+legacyId: 56a456b4ef3c8213c800cbc3
+text: 做媒侬无能嗨包生囝。
+annotations:
+- explanation: 媒人。
+  indices: [1, 2]
+  text: 媒侬
+- explanation: 不能，办不到。
+  indices: [3, 4, 5]
+  text: 无能嗨
+- explanation: 生儿子。
+  indices: [7, 8]
+  text: 生囝
+audioIds: [b05b5603-bffe-4925-ab92-b09b8377f888]
+tags: [谐喻事理, 谚语]
+sourceId: 1

@@ -1,0 +1,13 @@
+id: 398
+legacyId: 56a456b5ef3c8213c800cc6e
+text: 衣裳襆乞侬拖去拭屎。
+annotations:
+- explanation: 衣服的下襟。“襆”写方言俗字。
+  indices: [0, 1, 2]
+  text: 衣裳襆
+- explanation: 被别人。
+  indices: [3, 4]
+  text: 乞侬
+audioIds: [9dd30f24-15b1-4814-9958-e36866daa9ef]
+tags: [惯用语]
+sourceId: 1

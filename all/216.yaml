@@ -1,0 +1,16 @@
+id: 216
+legacyId: 56a456b4ef3c8213c800cafd
+text: 蜀年固望蜀年好，汗衫补成破夹袄。
+annotations:
+- explanation: 一年。
+  indices: [0, 1]
+  text: 蜀年
+- explanation: 还。
+  indices: [2]
+  text: 固
+- explanation: 衬衫。
+  indices: [8, 9]
+  text: 汗衫
+audioIds: [108c6be2-90ae-44cf-b801-3e82f3f0ebbc]
+tags: [劳动生产, 谚语]
+sourceId: 1

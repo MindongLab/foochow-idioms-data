@@ -1,0 +1,16 @@
+id: 331
+legacyId: 56a456b4ef3c8213c800cbe7
+text: 牛囝跋九倒。
+annotations:
+- explanation: 牛犊。
+  indices: [0, 1]
+  text: 牛囝
+- explanation: 跌跤。
+  indices: [2, 4]
+  text: 跋……倒……
+- explanation: 指次数多。
+  indices: [3]
+  text: 九
+audioIds: [0b053cec-41f6-453d-b6c9-adac2aa3cc83]
+tags: [谐喻事理, 谚语]
+sourceId: 1

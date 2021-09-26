@@ -1,0 +1,16 @@
+id: 351
+legacyId: 56a456b4ef3c8213c800cc10
+text: 鸡角囝未大先叫更。
+annotations:
+- explanation: 小公鸡。
+  indices: [0, 1, 2]
+  text: 鸡角囝
+- explanation: 还没长大。
+  indices: [3, 4]
+  text: 未大
+- explanation: （公鸡）打鸣。
+  indices: [6, 7]
+  text: 叫更
+audioIds: [dca2088b-d854-47f6-b22f-e05ae48f0193]
+tags: [惯用语]
+sourceId: 1

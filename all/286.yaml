@@ -1,0 +1,13 @@
+id: 286
+legacyId: 56a456b4ef3c8213c800cb8c
+text: 扛棺材，张式款。
+annotations:
+- explanation: 抬。
+  indices: [0]
+  text: 扛
+- explanation: 装腔作势。
+  indices: [4, 5, 6]
+  text: 张式款
+audioIds: [b1c695ce-f283-4097-8dc0-eae92f87b708]
+tags: [众生百相, 谚语]
+sourceId: 1

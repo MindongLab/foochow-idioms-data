@@ -1,0 +1,17 @@
+id: 141
+legacyId: 56a456b3ef3c8213c800ca63
+text: "未睏三顶席，心事摸\U00023350着。"
+annotations:
+- explanation: 还没睡烂三张席子。
+  indices: [0, 1, 2, 3, 4]
+  text: 未睏三顶席
+- explanation: 睡。
+  indices: [1]
+  text: 睏
+- explanation: 摸不着。
+  indices: [8, 9, 10]
+  text: "摸\U00023350着"
+audioIds: [da842841-0f90-4035-acec-f82471ea6a77]
+tags: [男女婚配, 谚语]
+sourceId: 1
+sourcePageNumber: 51

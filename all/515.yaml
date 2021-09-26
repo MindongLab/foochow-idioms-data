@@ -1,0 +1,20 @@
+id: 515
+legacyId: 56a456b6ef3c8213c800cd5b
+text: 鼎边糊——蜀汶就熟。
+annotations:
+- explanation: 一种福州小吃，以米浆制作。用大铁锅煮半锅汤，再以稠米浆在锅壁的上半部摊成片状，即铲入汤汁中。
+  indices: [0, 1, 2]
+  text: 鼎边糊
+- explanation: 鼎：铁锅。
+  indices: [0]
+  text: 鼎
+- explanation: 一。
+  indices: [5]
+  text: 蜀
+- explanation: 〈音〉制作“鼎边糊”时摊米浆的动作手势一一迅速地沿锅壁转一圈；双关指短暂的交际接触。
+  indices: [6]
+  text: 汶
+audioIds: [dbadcf9e-1101-454f-8300-b45ea57243af]
+tags: [歇后语, 双关类]
+sourceId: 1
+sourcePageNumber: 145

@@ -1,0 +1,23 @@
+id: 511
+legacyId: 56a456b5ef3c8213c800cd53
+text: "\U000280B2骹师公——坐\U00020CA5做法。"
+annotations:
+- explanation: 歧足。
+  indices: [0, 1]
+  text: "\U000280B2骹"
+- explanation: 道士。
+  indices: [2, 3]
+  text: 师公
+- explanation: 坐着。
+  indices: [6, 7]
+  text: "坐\U00020CA5"
+- explanation: 动态助词；着。
+  indices: [7]
+  text: "\U00020CA5"
+- explanation: 施法术。
+  indices: [8, 9]
+  text: 做法
+audioIds: [19da90a2-0ea6-43a0-b61b-245180b0eff8]
+tags: [歇后语, 双关类]
+sourceId: 1
+sourcePageNumber: 144

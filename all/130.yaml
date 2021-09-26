@@ -1,0 +1,17 @@
+id: 130
+legacyId: 56a456b3ef3c8213c800ca4d
+text: 三分侬样七分妆，七分侬样伓使妆。
+annotations:
+- explanation: 外表长相。
+  indices: [2, 3]
+  text: 侬样
+- explanation: 打扮。
+  indices: [6]
+  text: 妆
+- explanation: 用不着。
+  indices: [12, 13]
+  text: 伓使
+audioIds: [2a9b888d-3606-4e18-aba6-57147e6b499d]
+tags: [男女婚配, 谚语]
+sourceId: 1
+sourcePageNumber: 48

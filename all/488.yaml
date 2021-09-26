@@ -1,0 +1,14 @@
+id: 488
+legacyId: 56a456b5ef3c8213c800cd24
+text: 六月天出门带棉袄——老客。
+annotations:
+- explanation: 指盛夏。
+  indices: [0, 1, 2]
+  text: 六月天
+- explanation: 富有旅行经验者。
+  indices: [10, 11]
+  text: 老客
+audioIds: [f64f97b6-c525-4030-9e27-796ec779ede2]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 138

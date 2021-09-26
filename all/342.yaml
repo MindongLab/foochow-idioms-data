@@ -1,0 +1,13 @@
+id: 342
+legacyId: 56a456b4ef3c8213c800cbfe
+text: 猴戏未做，猴脾先起。
+annotations:
+- explanation: 猴脾气。
+  indices: [5, 6]
+  text: 猴脾
+- explanation: 发作。
+  indices: [8]
+  text: 起
+audioIds: [aea99b48-60f0-4699-8dc9-0cdd680cf1db]
+tags: [惯用语]
+sourceId: 1

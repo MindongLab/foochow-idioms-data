@@ -1,0 +1,13 @@
+id: 276
+legacyId: 56a456b4ef3c8213c800cb78
+text: 老实偷食鸡翼。
+annotations:
+- explanation: 偷吃。
+  indices: [2, 3]
+  text: 偷食
+- explanation: 鸡翅膀。
+  indices: [4, 5]
+  text: 鸡翼
+audioIds: [d45fb450-2ce1-485b-ab7c-a520ddd52da5]
+tags: [众生百相, 谚语]
+sourceId: 1

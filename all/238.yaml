@@ -1,0 +1,14 @@
+id: 238
+legacyId: 56a456b4ef3c8213c800cb2a
+text: 出门看天色，裡门看面色。
+annotations:
+- explanation: 动词；进。
+  indices: [6]
+  text: 裡
+- explanation: （主人的）脸色。
+  indices: [9, 10]
+  text: 面色
+audioIds: [7e6c2158-36d2-44f5-8f29-2d998e56174f]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 76

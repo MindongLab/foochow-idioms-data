@@ -1,0 +1,20 @@
+id: 508
+legacyId: 56a456b5ef3c8213c800cd4d
+text: "虾米食蜀腹——固\U00020CA5畏羞（须）。"
+annotations:
+- explanation: 吃了一肚子。
+  indices: [2, 3, 4]
+  text: 食蜀腹
+- explanation: 还，还在。
+  indices: [7, 8]
+  text: "固\U00020CA5"
+- explanation: 怕羞。
+  indices: [9, 10]
+  text: 畏羞
+- explanation: 触须；与“羞”字白读音相同。
+  indices: [12]
+  text: 须
+audioIds: [b8bc6d02-fba0-4db2-b238-fb82bcec4c23]
+tags: [歇后语, 双关类]
+sourceId: 1
+sourcePageNumber: 143

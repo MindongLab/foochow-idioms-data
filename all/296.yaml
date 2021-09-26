@@ -1,0 +1,13 @@
+id: 296
+legacyId: 56a456b4ef3c8213c800cba0
+text: 肖蛇多心事。
+annotations:
+- explanation: （生肖）属。
+  indices: [0]
+  text: 肖
+- explanation: 多疑。
+  indices: [2, 3, 4]
+  text: 多心事
+audioIds: [6dde9085-7f36-44b6-a652-5c2fe3691c2a]
+tags: [众生百相, 谚语]
+sourceId: 1

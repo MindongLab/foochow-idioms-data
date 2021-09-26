@@ -1,0 +1,16 @@
+id: 350
+legacyId: 56a456b4ef3c8213c800cc0e
+text: 牛囝未桊鼻。
+annotations:
+- explanation: 牛犊。
+  indices: [0, 1]
+  text: 牛囝
+- explanation: 还没有。
+  indices: [2]
+  text: 未
+- explanation: 穿鼻环。
+  indices: [3, 4]
+  text: 桊鼻
+audioIds: [f799c63b-c0b3-47af-b88a-37bbf1ab13a7]
+tags: [惯用语]
+sourceId: 1

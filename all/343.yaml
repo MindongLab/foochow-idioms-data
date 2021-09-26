@@ -1,0 +1,19 @@
+id: 343
+legacyId: 56a456b4ef3c8213c800cc00
+text: "吓蜀吓，变\U00020CA5鸭。"
+annotations:
+- explanation: 喝骂一声，也作“喝蜀喝”。
+  indices: [0, 1, 2]
+  text: 吓蜀吓
+- explanation: 一。
+  indices: [1]
+  text: 蜀
+- explanation: 变成了。
+  indices: [4, 5]
+  text: "变\U00020CA5"
+- explanation: 动态助词；了。
+  indices: [5]
+  text: "\U00020CA5"
+audioIds: [1f897467-6a43-4244-9c7f-d0fe689b4ca6]
+tags: [惯用语]
+sourceId: 1

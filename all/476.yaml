@@ -1,0 +1,13 @@
+id: 476
+legacyId: 56a456b5ef3c8213c800cd0a
+text: 房桶镜箱灯，草鞋包袱伞。
+annotations:
+- explanation: 马桶。
+  indices: [0, 1]
+  text: 房桶
+- explanation: 妇女的梳妆箱。
+  indices: [2, 3]
+  text: 镜箱
+audioIds: [21bf7c32-b81e-4222-b376-6b111df3fc93]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,14 @@
+id: 20
+legacyId: 56a456b3ef3c8213c800c96b
+text: 夏至乍出霉，大雨十八回。
+annotations:
+- explanation: 才。
+  indices: [2]
+  text: 乍
+- explanation: 发霉。
+  indices: [3, 4]
+  text: 出霉
+audioIds: [44d91e4b-9ac5-436c-b2a5-bcdb94df0dcd]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 18

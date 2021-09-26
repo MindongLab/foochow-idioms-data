@@ -1,0 +1,17 @@
+id: 103
+legacyId: 56a456b3ef3c8213c800ca15
+text: 男惊颂靴，女惊戴帽。
+annotations:
+- explanation: 怕。
+  indices: [1]
+  text: 惊
+- explanation: 穿靴，此处委婉指下肢肿胀。
+  indices: [2, 3]
+  text: 颂靴
+- explanation: 委婉指头部肿。
+  indices: [7, 8]
+  text: 戴帽
+audioIds: [2b9fc4c1-ec52-42a1-b957-a505101eff0f]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 41

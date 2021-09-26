@@ -1,0 +1,16 @@
+id: 282
+legacyId: 56a456b4ef3c8213c800cb84
+text: "\U00023350读书，会掰册。"
+annotations:
+- explanation: 不会。
+  indices: [0]
+  text: "\U00023350"
+- explanation: 撕书。
+  indices: [5, 6]
+  text: 掰册
+- explanation: 书。
+  indices: [6]
+  text: 册
+audioIds: [8cf7bbc8-2ac6-42f6-88e1-d5fcf802ec0e]
+tags: [众生百相, 谚语]
+sourceId: 1

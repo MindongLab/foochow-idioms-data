@@ -1,0 +1,16 @@
+id: 434
+legacyId: 56a456b5ef3c8213c800ccb6
+text: 蜀隻剃头，两隻扒耳。
+annotations:
+- explanation: 一。
+  indices: [0]
+  text: 蜀
+- explanation: 个（人）。
+  indices: [1]
+  text: 隻
+- explanation: 掏耳朵。
+  indices: [7]
+  text: 扒
+audioIds: [cb521f44-429f-4f2b-ba65-39ef90012746]
+tags: [惯用语]
+sourceId: 1

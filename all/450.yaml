@@ -1,0 +1,10 @@
+id: 450
+legacyId: 56a456b5ef3c8213c800ccd6
+text: 蜀时风驶蜀时船。
+annotations:
+- explanation: 一时。
+  indices: [0, 1]
+  text: 蜀时
+audioIds: [736fa3b2-6db7-426e-b1e2-031b88a909b1]
+tags: [惯用语]
+sourceId: 1

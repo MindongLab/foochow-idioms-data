@@ -1,0 +1,13 @@
+id: 339
+legacyId: 56a456b4ef3c8213c800cbf8
+text: "牛尾\U00023350遮牛股川。"
+annotations:
+- explanation: 遮不住。
+  indices: [2, 3]
+  text: "\U00023350遮"
+- explanation: 屁股。
+  indices: [5, 6]
+  text: 股川
+audioIds: [a220c844-6f60-48b8-9132-4ee4bd8e69ae]
+tags: [惯用语]
+sourceId: 1

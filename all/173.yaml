@@ -1,0 +1,17 @@
+id: 173
+legacyId: 56a456b3ef3c8213c800caa4
+text: 偷食台家疑新妇。
+annotations:
+- explanation: 偷吃；或借喻指偷情。
+  indices: [0, 1]
+  text: 偷食
+- explanation: 婆婆。
+  indices: [2, 3]
+  text: 台家
+- explanation: 媳妇。
+  indices: [5, 6]
+  text: 新妇
+audioIds: [3ae4698f-97e6-49d5-9356-39546e8ef71a]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 60

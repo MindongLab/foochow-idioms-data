@@ -1,0 +1,20 @@
+id: 16
+legacyId: 56a456b3ef3c8213c800c963
+text: 日头弹昼，大雨就遘。
+annotations:
+- explanation: 太阳。
+  indices: [0, 1]
+  text: 日头
+- explanation: 照射。
+  indices: [2]
+  text: 弹
+- explanation: 中午。
+  indices: [3]
+  text: 昼
+- explanation: 到的意思。
+  indices: [8]
+  text: 遘
+audioIds: [3881165b-d23f-46b3-90ac-4fe071151d11]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 17

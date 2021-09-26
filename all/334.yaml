@@ -1,0 +1,13 @@
+id: 334
+legacyId: 56a456b4ef3c8213c800cbee
+text: 暗蜂叮家蜡。
+annotations:
+- explanation: 一种鳖甲蜂，紫黑色、体细长，是蟑螂的天敌。
+  indices: [0, 1]
+  text: 暗蜂
+- explanation: 〈音〉蟑瑯。
+  indices: [3, 4]
+  text: 家蜡
+audioIds: [aeab1f73-7e5a-4e25-b91f-cb970ae31d3c]
+tags: [惯用语]
+sourceId: 1

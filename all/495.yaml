@@ -1,0 +1,14 @@
+id: 495
+legacyId: 56a456b5ef3c8213c800cd32
+text: 重重炮将军——铁无解。
+annotations:
+- explanation: 象棋的“重炮”残局。
+  indices: [0, 1, 2]
+  text: 重重炮
+- explanation: 铁定没有解救之招。
+  indices: [7, 8, 9]
+  text: 铁无解
+audioIds: [47156f68-b377-4af4-9a28-b4f10af1a7ab]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 140

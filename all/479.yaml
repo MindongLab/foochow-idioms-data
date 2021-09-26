@@ -1,0 +1,14 @@
+id: 479
+legacyId: 56a456b5ef3c8213c800cd12
+text: 毛毛鸡——假大格。
+annotations:
+- explanation: 一种羽毛膨松的鸡。
+  indices: [0, 1, 2]
+  text: 毛毛鸡
+- explanation: 大个子。
+  indices: [6, 7]
+  text: 大格
+audioIds: [ac0f1a87-e9ee-4ea3-aed3-d4eb109138e0]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 136

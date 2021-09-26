@@ -1,0 +1,16 @@
+id: 402
+legacyId: 56a456b5ef3c8213c800cc76
+text: 圆鼎四角甑。
+annotations:
+- explanation: 铁锅。
+  indices: [1]
+  text: 鼎
+- explanation: 方形的蒸笼。
+  indices: [2, 3, 4]
+  text: 四角甑
+- explanation: 蒸笼；本字“床”。
+  indices: [4]
+  text: 甑
+audioIds: [be44fe57-d0a9-402a-9761-9d78e61f3647]
+tags: [惯用语]
+sourceId: 1

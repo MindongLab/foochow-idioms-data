@@ -1,0 +1,19 @@
+id: 368
+legacyId: 56a456b5ef3c8213c800cc32
+text: "心肝生\U00029A4D\U00020CA5。"
+annotations:
+- explanation: 心，良心。
+  indices: [0, 1]
+  text: 心肝
+- explanation: 动词；长。
+  indices: [2]
+  text: 生
+- explanation: 背上。
+  indices: [3, 4]
+  text: "\U00029A4D\U00020CA5"
+- explanation: 处所助词，本字“里”。
+  indices: [4]
+  text: "\U00020CA5"
+audioIds: [718aac2c-7237-4a72-95a0-58ad39e19deb]
+tags: [惯用语]
+sourceId: 1

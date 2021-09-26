@@ -1,0 +1,17 @@
+id: 115
+legacyId: 56a456b3ef3c8213c800ca2e
+text: "旧其无去，新其\U00023350来。"
+annotations:
+- explanation: 旧的。
+  indices: [0, 1]
+  text: 旧其
+- explanation: 没有失去。
+  indices: [2, 3]
+  text: 无去
+- explanation: 新的。
+  indices: [5, 6]
+  text: 新其
+audioIds: [2166a9a8-9e8e-4d99-8535-a7e7c8d0e9a9]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 44

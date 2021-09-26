@@ -1,0 +1,16 @@
+id: 424
+legacyId: 56a456b5ef3c8213c800cca2
+text: 亲母自耀骹腿白。
+annotations:
+- explanation: 亲家母。
+  indices: [0, 1]
+  text: 亲母
+- explanation: 自夸。
+  indices: [2, 3]
+  text: 自耀
+- explanation: 腿。
+  indices: [4, 5]
+  text: 骹腿
+audioIds: [2d3fa69b-1aa1-42ed-af4a-4e01e1959f49]
+tags: [惯用语]
+sourceId: 1

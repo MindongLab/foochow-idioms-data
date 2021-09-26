@@ -1,0 +1,13 @@
+id: 189
+legacyId: 56a456b4ef3c8213c800cac5
+text: 三岁孩儿值侬疼，八十婆婆讨侬嫌。
+annotations:
+- explanation: 惹人喜爱。
+  indices: [4, 5, 6]
+  text: 值侬疼
+- explanation: 叫人讨厌。
+  indices: [12, 13, 14]
+  text: 讨侬嫌
+audioIds: [ca9abc78-212d-4fba-ae76-ac415754aed7]
+tags: [亲戚关系, 谚语]
+sourceId: 1

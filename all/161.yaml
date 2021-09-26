@@ -1,0 +1,17 @@
+id: 161
+legacyId: 56a456b3ef3c8213c800ca8c
+text: 洪塘囝，伓八爹。
+annotations:
+- explanation: 福州西郊的洪塘乡。
+  indices: [0, 1]
+  text: 洪塘
+- explanation: 儿子，孩子。
+  indices: [2]
+  text: 囝
+- explanation: 不知道。
+  indices: [4, 5]
+  text: 伓八
+audioIds: [ed082ffb-32e4-4121-9d5f-ca67b0bac2b7]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 56

@@ -1,0 +1,14 @@
+id: 152
+legacyId: 56a456b3ef3c8213c800ca7a
+text: 罢奶疼呆囝，皇帝疼奸臣。
+annotations:
+- explanation: 父母。
+  indices: [0, 1]
+  text: 罢奶
+- explanation: 坏孩子，此处指品行不良的子女。
+  indices: [3, 4]
+  text: 呆囝
+audioIds: [f80d27b0-5a2c-428d-bfe8-8a0ba2bf2b99]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 54

@@ -1,0 +1,17 @@
+id: 234
+legacyId: 56a456b4ef3c8213c800cb22
+text: 做侬两奇做。
+annotations:
+- explanation: 做人，为人。
+  indices: [0, 1]
+  text: 做侬
+- explanation: 两个，此处指相互。
+  indices: [2, 3]
+  text: 两奇
+- explanation: 量词；个。
+  indices: [3]
+  text: 奇
+audioIds: [a8c06e6f-bfff-46d3-acef-e35a0a5c127e]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 75

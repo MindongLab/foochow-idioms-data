@@ -1,0 +1,13 @@
+id: 357
+legacyId: 56a456b5ef3c8213c800cc1c
+text: 鸡角囝斗大。
+annotations:
+- explanation: 小公鸡。
+  indices: [0, 1, 2]
+  text: 鸡角囝
+- explanation: 因互不服气而争斗。
+  indices: [3, 4]
+  text: 斗大
+audioIds: [993586ec-9aac-46c4-b9b5-4a07257c3424]
+tags: [惯用语]
+sourceId: 1

@@ -1,0 +1,19 @@
+id: 297
+legacyId: 56a456b4ef3c8213c800cba2
+text: 好呆侬，相带累。
+annotations:
+- explanation: 好人坏人。
+  indices: [0, 1, 2]
+  text: 好呆侬
+- explanation: 坏。
+  indices: [1]
+  text: 呆
+- explanation: 外表长相。
+  indices: [4]
+  text: 相
+- explanation: 连累。
+  indices: [5, 6]
+  text: 带累
+audioIds: [e6073a4f-20a6-4bdf-96fd-2b4ad9f71e73]
+tags: [众生百相, 谚语]
+sourceId: 1

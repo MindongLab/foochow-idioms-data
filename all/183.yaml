@@ -1,0 +1,13 @@
+id: 183
+legacyId: 56a456b4ef3c8213c800cab9
+text: 亲姨娘奶面。
+annotations:
+- explanation: 母亲。
+  indices: [2, 3]
+  text: 娘奶
+- explanation: 面容。
+  indices: [4]
+  text: 面
+audioIds: [889092cd-3fac-4e5e-b9cc-f2048f6fd0a5]
+tags: [亲戚关系, 谚语]
+sourceId: 1

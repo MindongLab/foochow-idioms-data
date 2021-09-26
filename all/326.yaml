@@ -1,0 +1,16 @@
+id: 326
+legacyId: 56a456b4ef3c8213c800cbdd
+text: 起风乍八妈祖婆婆。
+annotations:
+- explanation: 副词；才。
+  indices: [2]
+  text: 乍
+- explanation: 认识，知道。
+  indices: [3]
+  text: 八
+- explanation: 对 “妈祖”（即“天妃娘娘”）的尊称。
+  indices: [4, 5, 6, 7]
+  text: 妈祖婆婆
+audioIds: [315aa8ff-df1d-4d34-a344-00f575618e5a]
+tags: [谐喻事理, 谚语]
+sourceId: 1

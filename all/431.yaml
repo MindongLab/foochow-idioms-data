@@ -1,0 +1,13 @@
+id: 431
+legacyId: 56a456b5ef3c8213c800ccb0
+text: 曲蹄请亲家。
+annotations:
+- explanation: 旧称以打渔、内河航运为生的水上居民。
+  indices: [0, 1]
+  text: 曲蹄
+- explanation: 宴请。
+  indices: [2]
+  text: 请
+audioIds: [7339ba4d-100e-4ef0-a22f-7ca3ee68a657]
+tags: [惯用语]
+sourceId: 1

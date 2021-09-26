@@ -1,0 +1,16 @@
+id: 427
+legacyId: 56a456b5ef3c8213c800cca8
+text: 蜀槌拍两橛。
+annotations:
+- explanation: 槌子一击。
+  indices: [0, 1]
+  text: 蜀槌
+- explanation: 击打。
+  indices: [2]
+  text: 拍
+- explanation: 段。
+  indices: [4]
+  text: 橛
+audioIds: [3633afc3-ad80-47bb-a54d-321912946780]
+tags: [惯用语]
+sourceId: 1

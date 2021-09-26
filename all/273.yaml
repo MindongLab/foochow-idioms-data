@@ -1,0 +1,16 @@
+id: 273
+legacyId: 56a456b4ef3c8213c800cb72
+text: 真教师伓讲拳头。
+annotations:
+- explanation: 拳师。
+  indices: [1, 2]
+  text: 教师
+- explanation: 不谈论。
+  indices: [3, 4]
+  text: 伓讲
+- explanation: 武术。
+  indices: [5, 6]
+  text: 拳头
+audioIds: [1f6fec18-4700-42ba-b335-77ef698863eb]
+tags: [众生百相, 谚语]
+sourceId: 1

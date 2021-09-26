@@ -1,0 +1,20 @@
+id: 55
+legacyId: 56a456b3ef3c8213c800c9b2
+text: "鼓山汝莫传，去\U00020CA5汝莫怨。"
+annotations:
+- explanation: 在福州东郊，海拔870多米。山上有涌泉寺、喝水岩诸景。
+  indices: [0, 1]
+  text: 鼓山
+- explanation: 你。
+  indices: [2]
+  text: 汝
+- explanation: 不要传说（它迷人）。
+  indices: [3, 4]
+  text: 莫传
+- explanation: 动态助词：了。
+  indices: [7]
+  text: "\U00020CA5"
+audioIds: [d434cd60-3bdd-4414-bc17-847b8f235ed0]
+tags: [日月山川, 谚语]
+sourceId: 1
+sourcePageNumber: 28

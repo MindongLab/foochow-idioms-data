@@ -1,0 +1,14 @@
+id: 519
+legacyId: 56a456b6ef3c8213c800cd63
+text: 太子登基——大泻（赦）天下。
+annotations:
+- explanation: 拉肚子拉得很厉害。
+  indices: [6, 7, 11, 12]
+  text: 大泻……天下……
+- explanation: “赦”与“泻”同音。
+  indices: [9]
+  text: 赦
+audioIds: [61a9abee-43df-4c64-acff-b1faaff2f608]
+tags: [歇后语, 双关类]
+sourceId: 1
+sourcePageNumber: 146

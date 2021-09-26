@@ -1,0 +1,14 @@
+id: 9
+legacyId: 56a456b2ef3c8213c800c955
+text: 三月三，掏扇换纃衫。
+annotations:
+- explanation: 拿的意思。
+  indices: [4]
+  text: 掏
+- explanation: 即“汗衫”，指苎麻布的衣衫，轻薄凉爽。
+  indices: [7, 8]
+  text: 纃衫
+audioIds: [ba24a31b-fcb6-4d2e-bab5-4c833df46364]
+tags: [天气节令, 谚语]
+sourceId: 1
+sourcePageNumber: 15

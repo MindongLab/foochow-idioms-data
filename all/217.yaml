@@ -1,0 +1,13 @@
+id: 217
+legacyId: 56a456b4ef3c8213c800caff
+text: 做田无命，节气把定。
+annotations:
+- explanation: 种田，务农。
+  indices: [0, 1]
+  text: 做田
+- explanation: 不凭命运。
+  indices: [2, 3]
+  text: 无命
+audioIds: [cf80af80-70d6-4525-8392-a2d75f38b06c]
+tags: [劳动生产, 谚语]
+sourceId: 1

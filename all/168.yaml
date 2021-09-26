@@ -1,0 +1,26 @@
+id: 168
+legacyId: 56a456b3ef3c8213c800ca9a
+text: 公众厅中无侬扫，多子罢奶无对讨昼。
+annotations:
+- explanation: 公用的。
+  indices: [0, 1]
+  text: 公众
+- explanation: 旧式民宅的正堂大厅。
+  indices: [2, 3]
+  text: 厅中
+- explanation: 没有人打扫。
+  indices: [4, 5, 6]
+  text: 无侬扫
+- explanation: 父母。
+  indices: [10, 11]
+  text: 罢奶
+- explanation: 无处。对 〈音〉：地方。
+  indices: [12, 13]
+  text: 无对
+- explanation: 吃午饭。
+  indices: [14, 15]
+  text: 讨昼
+audioIds: [583bb80c-164f-4820-90f0-3657bb1dc8ec]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 58

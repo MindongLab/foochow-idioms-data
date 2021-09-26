@@ -1,0 +1,13 @@
+id: 467
+legacyId: 56a456b5ef3c8213c800ccf8
+text: 耳聋会听见鸭母叫更。
+annotations:
+- explanation: 母鸭。
+  indices: [5, 6]
+  text: 鸭母
+- explanation: （公鸡）打鸣。
+  indices: [7, 8]
+  text: 叫更
+audioIds: [208340e6-1d21-4b1b-a009-3f64bb732de7]
+tags: [惯用语]
+sourceId: 1

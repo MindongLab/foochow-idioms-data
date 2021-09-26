@@ -1,0 +1,19 @@
+id: 214
+legacyId: 56a456b4ef3c8213c800caf9
+text: "碎食\U00023350饱，碎做无工。"
+annotations:
+- explanation: 零食。
+  indices: [0, 1]
+  text: 碎食
+- explanation: 吃不饱。
+  indices: [2, 3]
+  text: "\U00023350饱"
+- explanation: 零敲碎打地干活。
+  indices: [5, 6]
+  text: 碎做
+- explanation: 指劳动功效。
+  indices: [8]
+  text: 工
+audioIds: [89c05510-9e1f-4f35-81c1-23e38fe9de85]
+tags: [劳动生产, 谚语]
+sourceId: 1

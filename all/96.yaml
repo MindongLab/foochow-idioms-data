@@ -1,0 +1,17 @@
+id: 96
+legacyId: 56a456b3ef3c8213c800ca07
+text: 好囝无趁六月钱。
+annotations:
+- explanation: 泛指勤俭者。
+  indices: [0, 1]
+  text: 好囝
+- explanation: 赚（钱）的意思。
+  indices: [3]
+  text: 趁
+- explanation: 六月苦夏，即使再勤勉的人也不愿外出打工赚钱。
+  indices: [4, 5]
+  text: 六月
+audioIds: [c2b5b858-7977-4a7b-aad3-34de1f75a318]
+tags: [养生健康, 谚语]
+sourceId: 1
+sourcePageNumber: 39

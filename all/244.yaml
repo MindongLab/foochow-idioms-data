@@ -1,0 +1,14 @@
+id: 244
+legacyId: 56a456b4ef3c8213c800cb36
+text: 有理无理，干证先死。
+annotations:
+- explanation: 证人。
+  indices: [5, 6]
+  text: 干证
+- explanation: 此处指倒霉。
+  indices: [8]
+  text: 死
+audioIds: [a7df1172-f3b9-4602-b4ab-e14b5035306c]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 78

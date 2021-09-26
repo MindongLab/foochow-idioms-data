@@ -1,0 +1,16 @@
+id: 303
+legacyId: 56a456b4ef3c8213c800cbae
+text: 麻麻其骚，乌乌其娇。
+annotations:
+- explanation: 麻麻的，指麻脸。
+  indices: [0, 1, 2]
+  text: 麻麻其
+- explanation: 俗写同音的“超” 字。
+  indices: [3]
+  text: 骚
+- explanation: 黑黑的。
+  indices: [5, 6, 7]
+  text: 乌乌其
+audioIds: [de92fac6-e314-41f9-b580-3fe4c5533576]
+tags: [众生百相, 谚语]
+sourceId: 1

@@ -1,0 +1,20 @@
+id: 496
+legacyId: 56a456b5ef3c8213c800cd34
+text: "贱骨头——无拍\U00023350加流。"
+annotations:
+- explanation: 儿童玩的陀螺。
+  indices: [0, 1, 2]
+  text: 贱骨头
+- explanation: 不……不……。
+  indices: [5, 7]
+  text: "无……\U00023350……"
+- explanation: 打。
+  indices: [6]
+  text: 拍
+- explanation: 〈音〉滚动，转动。
+  indices: [8, 9]
+  text: 加流
+audioIds: [d3ad3056-5805-4c2e-92e0-082ee4bbfb85]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 140

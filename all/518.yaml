@@ -1,0 +1,26 @@
+id: 518
+legacyId: 56a456b6ef3c8213c800cd61
+text: "稀稀粥掺滚汤——亲（清）\U00020CA5加亲（清）。"
+annotations:
+- explanation: 很稀的粥。
+  indices: [0, 1, 2]
+  text: 稀稀粥
+- explanation: 开水。
+  indices: [4, 5]
+  text: 滚汤
+- explanation: 亲上加亲。
+  indices: [8, 12, 13, 14]
+  text: "亲……\U00020CA5加亲……"
+- explanation: 处所助词。
+  indices: [12]
+  text: "\U00020CA5"
+- explanation: （稀薄的粥）变得更稀了。
+  indices: [10, 12, 13, 16]
+  text: "清……\U00020CA5加……清……"
+- explanation: （粥）稀薄。“清”与“亲”同音。
+  indices: [10]
+  text: 清
+audioIds: [e6732334-f97e-402d-bb02-f7e98ea70871]
+tags: [歇后语, 双关类]
+sourceId: 1
+sourcePageNumber: 146

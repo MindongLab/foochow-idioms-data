@@ -1,0 +1,17 @@
+id: 162
+legacyId: 56a456b3ef3c8213c800ca8e
+text: 五十五，固蜀孵。
+annotations:
+- explanation: 指妇女年龄。
+  indices: [0, 1, 2]
+  text: 五十五
+- explanation: 还。
+  indices: [4]
+  text: 固
+- explanation: （生）一胎。
+  indices: []
+  text: ''
+audioIds: [a9271b3e-084e-46d2-a7b5-a3d2856b7d09]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 56

@@ -1,0 +1,19 @@
+id: 381
+legacyId: 56a456b5ef3c8213c800cc4c
+text: 新人蜀过门，媒侬丢过墙。
+annotations:
+- explanation: 新娘。
+  indices: [0, 1]
+  text: 新人
+- explanation: 一。
+  indices: [2]
+  text: 蜀
+- explanation: 媒人。
+  indices: [6, 7]
+  text: 媒侬
+- explanation: 抛。
+  indices: [8]
+  text: 丢
+audioIds: [d9e0f95c-7fd0-4f92-ba14-3ada806e59e0]
+tags: [惯用语]
+sourceId: 1

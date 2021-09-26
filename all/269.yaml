@@ -1,0 +1,16 @@
+id: 269
+legacyId: 56a456b4ef3c8213c800cb69
+text: 俪看见贼食，无看见贼拍。
+annotations:
+- explanation: 〈借用字〉范围副词；只。
+  indices: [0]
+  text: 俪
+- explanation: 食：吃。
+  indices: [4]
+  text: 食
+- explanation: 打， 此处指挨揍。
+  indices: [10]
+  text: 拍
+audioIds: [48f9351d-a715-4934-9e2d-0656b6da81a3]
+tags: [世道清浊, 谚语]
+sourceId: 1

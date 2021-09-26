@@ -1,0 +1,10 @@
+id: 338
+legacyId: 56a456b4ef3c8213c800cbf6
+text: 厝裡犬，咬门垫。
+annotations:
+- explanation: 家里。
+  indices: [0, 1]
+  text: 厝裡
+audioIds: [8a634275-2e17-4632-b42b-b3a8972c1b79]
+tags: [惯用语]
+sourceId: 1

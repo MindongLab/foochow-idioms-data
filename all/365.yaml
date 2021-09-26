@@ -1,0 +1,16 @@
+id: 365
+legacyId: 56a456b5ef3c8213c800cc2c
+text: 郎机炮拍隻隻。
+annotations:
+- explanation: 旧称大炮。
+  indices: [0, 1, 2]
+  text: 郎机炮
+- explanation: 打。
+  indices: [3]
+  text: 拍
+- explanation: 麻雀。
+  indices: [4, 5]
+  text: 隻隻
+audioIds: [c5248bdc-1d59-4e66-b3b6-feb79c5dbba7]
+tags: [惯用语]
+sourceId: 1

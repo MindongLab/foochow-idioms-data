@@ -1,0 +1,13 @@
+id: 256
+legacyId: 56a456b4ef3c8213c800cb4f
+text: 诈迷梦食老羊蹄。
+annotations:
+- explanation: 装聋作哑。
+  indices: [0, 1, 2]
+  text: 诈迷梦
+- explanation: 吃。
+  indices: [3]
+  text: 食
+audioIds: [3eba02cc-b631-45e1-9a88-0913baee022d]
+tags: [世道清浊, 谚语]
+sourceId: 1

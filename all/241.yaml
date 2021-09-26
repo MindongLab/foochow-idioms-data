@@ -1,0 +1,17 @@
+id: 241
+legacyId: 56a456b4ef3c8213c800cb30
+text: 拳头杮，霆死侬。
+annotations:
+- explanation: 乱挥舞的拳头。杮：《广韵》斫木札也，方废切。
+  indices: [0, 1, 2]
+  text: 拳头杮
+- explanation: 砸。
+  indices: [4]
+  text: 霆
+- explanation: 人。
+  indices: [6]
+  text: 侬
+audioIds: [77801432-a728-41ee-a5ad-bcebe359ce2c]
+tags: [为人处世, 谚语]
+sourceId: 1
+sourcePageNumber: 77

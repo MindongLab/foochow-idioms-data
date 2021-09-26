@@ -1,0 +1,17 @@
+id: 171
+legacyId: 56a456b3ef3c8213c800caa0
+text: 日头弹倒车，新妇管台家。
+annotations:
+- explanation: 太阳。
+  indices: [0, 1]
+  text: 日头
+- explanation: 倒着旋转。
+  indices: [2, 3, 4]
+  text: 弹倒车
+- explanation: 婆婆， 或写作“大家”。
+  indices: [9, 10]
+  text: 台家
+audioIds: [ac034cb9-ffa9-4165-b7bf-ed471dd358a4]
+tags: [家庭生活, 谚语]
+sourceId: 1
+sourcePageNumber: 59

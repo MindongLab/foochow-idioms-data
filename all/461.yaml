@@ -1,0 +1,13 @@
+id: 461
+legacyId: 56a456b5ef3c8213c800ccec
+text: 闲柴烧滚汤。
+annotations:
+- explanation: 多余的柴火。
+  indices: [0, 1]
+  text: 闲柴
+- explanation: 开水，此处指已经烧开了的水。
+  indices: [3, 4]
+  text: 滚汤
+audioIds: [c7a85e58-668b-474c-becd-cafb99c0337f]
+tags: [惯用语]
+sourceId: 1

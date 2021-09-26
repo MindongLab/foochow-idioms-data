@@ -1,0 +1,13 @@
+id: 185
+legacyId: 56a456b4ef3c8213c800cabd
+text: 亲戚姜姆汤。
+annotations:
+- explanation: 姜汤，喻辛辣。
+  indices: [2, 3, 4]
+  text: 姜姆汤
+- explanation: 姜。
+  indices: [2, 3]
+  text: 姜姆
+audioIds: [7d00011c-499d-4689-8bfd-b10309a9a96d]
+tags: [亲戚关系, 谚语]
+sourceId: 1

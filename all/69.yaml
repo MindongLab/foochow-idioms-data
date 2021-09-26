@@ -1,0 +1,14 @@
+id: 69
+legacyId: 56a456b3ef3c8213c800c9d0
+text: "山\U00020CA5麂鹿獐，海\U00020CA5马鲛鲳。"
+annotations:
+- explanation: 方言俗字，处所助词，本字是“里”。
+  indices: [1]
+  text: "\U00020CA5"
+- explanation: 指马鲛鱼。
+  indices: [8, 9]
+  text: 马鲛
+audioIds: [9699eb55-f2a8-4ef9-8c55-ee01b9deefb6]
+tags: [物产美食, 谚语]
+sourceId: 1
+sourcePageNumber: 32

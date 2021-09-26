@@ -1,0 +1,13 @@
+id: 460
+legacyId: 56a456b5ef3c8213c800ccea
+text: 长长冥，十八更。
+annotations:
+- explanation: 夜。《广韵》：“幽也，暗也，莫经切。”
+  indices: [2]
+  text: 冥
+- explanation: 夸张说夜长。
+  indices: [4, 5, 6]
+  text: 十八更
+audioIds: [b14afd46-9bac-42f0-9bf0-f2f5a96938e9]
+tags: [惯用语]
+sourceId: 1

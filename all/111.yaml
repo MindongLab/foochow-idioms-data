@@ -1,0 +1,20 @@
+id: 111
+legacyId: 56a456b3ef3c8213c800ca26
+text: 侬养侬，俪是骨；天养侬，肥确确。
+annotations:
+- explanation: 人。
+  indices: [0]
+  text: 侬
+- explanation: 此处引申指给予供养、照顾。
+  indices: [1]
+  text: 养
+- explanation: 只是骨头，喻指养不肥，仅能活命而已。
+  indices: [4, 5, 6]
+  text: 俪是骨
+- explanation: 胖乎乎，此处借喻富裕。
+  indices: [12, 13, 14]
+  text: 肥确确
+audioIds: [d75fa339-f35c-4dcb-a52b-a0882989bd64]
+tags: [人生态度, 谚语]
+sourceId: 1
+sourcePageNumber: 43

@@ -1,0 +1,14 @@
+id: 487
+legacyId: 56a456b5ef3c8213c800cd22
+text: 孤老院——有裡无出。
+annotations:
+- explanation: 麻疯病。
+  indices: [0, 1]
+  text: 孤老
+- explanation: 进。
+  indices: [6]
+  text: 裡
+audioIds: [d7537bcc-e5db-45b2-8f80-985c701e61a9]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 137

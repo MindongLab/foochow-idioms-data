@@ -1,0 +1,16 @@
+id: 267
+legacyId: 56a456b4ef3c8213c800cb65
+text: 心酸莫着墿头啼。
+annotations:
+- explanation: 在。
+  indices: [3]
+  text: 着
+- explanation: 路口。
+  indices: [4, 5]
+  text: 墿头
+- explanation: 哭。
+  indices: [6]
+  text: 啼
+audioIds: [3c2d857b-9719-41e3-9278-5d41b2746096]
+tags: [世道清浊, 谚语]
+sourceId: 1

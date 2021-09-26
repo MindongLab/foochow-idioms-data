@@ -1,0 +1,22 @@
+id: 464
+legacyId: 56a456b5ef3c8213c800ccf2
+text: 会惊泄尿伓去睏。
+annotations:
+- explanation: 害怕。
+  indices: [0, 1]
+  text: 会惊
+- explanation: 助动词。
+  indices: [0]
+  text: 会
+- explanation: 尿床。
+  indices: [2, 3]
+  text: 泄尿
+- explanation: 不去。
+  indices: [4, 5]
+  text: 伓去
+- explanation: 睡觉。
+  indices: [6]
+  text: 睏
+audioIds: [d04f6ab8-5570-46cf-9799-f6112d78e9cc]
+tags: [惯用语]
+sourceId: 1

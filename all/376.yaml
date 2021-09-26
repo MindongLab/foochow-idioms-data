@@ -1,0 +1,16 @@
+id: 376
+legacyId: 56a456b5ef3c8213c800cc42
+text: 东岳做普渡，六十年蜀回。
+annotations:
+- explanation: 福州东门外有东岳庙，即泰山庙。
+  indices: [0, 1]
+  text: 东岳
+- explanation: 普渡亡魂的大规模民间宗教活动。
+  indices: [3, 4]
+  text: 普渡
+- explanation: 一次。
+  indices: [9, 10]
+  text: 蜀回
+audioIds: [9cca91b5-41cf-469a-ab10-6eddc4351479]
+tags: [惯用语]
+sourceId: 1

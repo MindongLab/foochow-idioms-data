@@ -1,0 +1,10 @@
+id: 405
+legacyId: 56a456b5ef3c8213c800cc7c
+text: 蜀时韭菜蜀时葱。
+annotations:
+- explanation: 一时。
+  indices: [0, 1]
+  text: 蜀时
+audioIds: [6fe64af6-7576-44b6-b9ac-bd24ef6a7b24]
+tags: [惯用语]
+sourceId: 1

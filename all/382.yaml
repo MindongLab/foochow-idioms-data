@@ -1,0 +1,16 @@
+id: 382
+legacyId: 56a456b5ef3c8213c800cc4e
+text: 好心乞雷拍。
+annotations:
+- explanation: （反而）遭雷打。
+  indices: [2, 3, 4]
+  text: 乞雷拍
+- explanation: 介词；被。
+  indices: [2]
+  text: 乞
+- explanation: 击，打。
+  indices: [4]
+  text: 拍
+audioIds: [ac3dc033-d93f-496a-862e-8afc75911aaa]
+tags: [惯用语]
+sourceId: 1

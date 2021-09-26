@@ -1,0 +1,13 @@
+id: 287
+legacyId: 56a456b4ef3c8213c800cb8e
+text: 十隻尼姑，九隻病囝。
+annotations:
+- explanation: 量词；个。
+  indices: [1]
+  text: 隻
+- explanation: 早孕反应的症状，此处指怀孕。
+  indices: [7, 8]
+  text: 病囝
+audioIds: [a783468b-73e3-4643-bebb-b01ff65cce02]
+tags: [众生百相, 谚语]
+sourceId: 1

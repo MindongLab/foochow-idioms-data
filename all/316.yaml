@@ -1,0 +1,13 @@
+id: 316
+legacyId: 56a456b4ef3c8213c800cbc9
+text: 江中再大，有日船头会相碰。
+annotations:
+- explanation: 无论有多大。
+  indices: [2, 3]
+  text: 再大
+- explanation: 总有一天。
+  indices: [5, 6]
+  text: 有日
+audioIds: [7240ba72-6076-41ac-9699-86f3f0872864]
+tags: [谐喻事理, 谚语]
+sourceId: 1

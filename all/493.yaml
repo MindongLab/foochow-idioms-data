@@ -1,0 +1,17 @@
+id: 493
+legacyId: 56a456b5ef3c8213c800cd2e
+text: 无牙食豆腐——正正好。
+annotations:
+- explanation: 牙齿；字音为“牙齿”二字的合音。
+  indices: [1]
+  text: 牙
+- explanation: 吃。
+  indices: [2]
+  text: 食
+- explanation: 正合适。
+  indices: [7, 8, 9]
+  text: 正正好
+audioIds: [26881090-781c-44bb-974f-1a9e94dd586d]
+tags: [歇后语, 谐喻类]
+sourceId: 1
+sourcePageNumber: 139
