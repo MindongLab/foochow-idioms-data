@@ -7,7 +7,7 @@ See individual details behind the idioms.
 
 ## 福州十邑
 
-### [福州方言熟语歌谣](https://github.com/MindongLab/foochow-idioms-data/blob/master/福州方言熟语歌谣.csv)
+### [福州方言熟语歌谣](https://github.com/MindongLab/foochow-idioms-data/tree/master/福州方言熟语歌谣)
 - Digitalization: [Radium Zheng](https://github.com/ztl8702)
 - Sound: 
 - Recording: Radium Zheng
