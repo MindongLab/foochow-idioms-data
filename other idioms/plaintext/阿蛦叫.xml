@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd">
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="liji" Section="Sentence" Conversation="false" Property="spoken"><Provider Date="2020-10-14">
+		<Name>关彳山</Name>
+	</Provider>
+		<Title Text="阿蛦叫" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+		<SecLv2 Section="Word" Text="阿蛦"></SecLv2>
+		<SecLv2 Section="Character" Text="叫"/>
+		<SecLv2 Section="Punctuation" Text=","/>
+		<SecLv2 Section="Word" Text="荔枝"/>
+		<SecLv2 Section="Character" Text="紅"/>
+		<SecLv2 Section="Punctuation" Text="."/>
+		<SecLv2 Section="Word" Text="客鵲"></SecLv2>
+		<SecLv2 Section="Character" Text="叫"/>
+		<SecLv2 Section="Punctuation" Text=","/>
+		<SecLv2 Section="Character" Text="摜"></SecLv2>
+		<SecLv2 Section="Word" Text="火籠"/>
+		<SecLv2 Section="Punctuation" Text="."/>
+	</SecLv1>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence" Conversation="false" Property="spoken"><Provider Date="2020-10-14">
+		<Name>关彳山</Name>
+	</Provider>
+		<Title Text="荔枝紅"/>
+		<Speaker>
+			<Name>方炳桂</Name>
+		</Speaker>
+		<SecLv2 Section="Word" Text="阿蠐" TypoFix="阿蛦">
+			<Translation TransText="知了" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="叫"/>
+		<SecLv2 Section="Punctuation" Text=","/>
+		<SecLv2 Section="Word" Text="荔枝"/>
+		<SecLv2 Section="Character" Text="紅"/>
+		<SecLv2 Section="Punctuation" Text="."/>
+		<SecLv2 Section="Word" Text="蠐嘎" TypoFix="𧔢甲">
+			<Translation TransText="秋蟬" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="叫"/>
+		<SecLv2 Section="Punctuation" Text=","/>
+		<SecLv2 Section="Character" Text="摜">
+			<Translation TransText="提" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Word" Text="火籠"/>
+		<SecLv2 Section="Punctuation" Text="."/>
+		<Note>是盛夏到初秋季節的寫照，盛夏時，知了叫，荔枝就紅了；而初秋秋蟬叫時，天氣變冷，人們就要開始用火籠取暖了。</Note>
+	</SecLv1>
+</Corpus>
