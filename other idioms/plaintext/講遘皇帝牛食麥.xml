@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Property="spoken" Conversation="false">
+	<Provider Date="2021-10-13">
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-6="fzho" Iso639-3="cdo" Iso639-1="zh" Section="Sentence">
+		<SecLv2 Text="講" Section="Character"/>
+		<SecLv2 Text="遘" Section="Character"/>
+		<SecLv2 Text="皇帝" Section="Word"/>
+		<SecLv2 Text="牛" Section="Character"/>
+		<SecLv2 Text="食" Section="Character"/>
+		<SecLv2 Text="麥" Section="Character"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+</Corpus>
